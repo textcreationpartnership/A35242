@@ -1,0 +1,635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A journey to Jerusalem, or, A relation of the travels of fourteen English-men in the year 1669 from Scanderoon, to Tripoly, Joppa, Ramah, Jerusalem, Bethlem, Jericho, the River Jordan, the Dead Sea, and back again to Aleppo : with an exact account of all the remarkable places and things in their whole journey / in a letter from T.B. in Aleppo to his friend in London ; together with a map and brief account of the ancient and modern state of those countries.</title>
+            <author>R. B., 1632?-1725?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35242</idno>
+            <idno type="STC">Wing C7341</idno>
+            <idno type="STC">ESTC R31344</idno>
+            <idno type="EEBO-CITATION">11926668</idno>
+            <idno type="OCLC">ocm 11926668</idno>
+            <idno type="VID">51049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1001:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A journey to Jerusalem, or, A relation of the travels of fourteen English-men in the year 1669 from Scanderoon, to Tripoly, Joppa, Ramah, Jerusalem, Bethlem, Jericho, the River Jordan, the Dead Sea, and back again to Aleppo : with an exact account of all the remarkable places and things in their whole journey / in a letter from T.B. in Aleppo to his friend in London ; together with a map and brief account of the ancient and modern state of those countries.</title>
+                  <author>R. B., 1632?-1725?</author>
+               </titleStmt>
+               <extent>[38], 87 p. : ill., map.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for N. Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated frontispiece.</note>
+                  <note>Republished with additions in 1683 as "Two journeys to Jerusalem"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jerusalem --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51049:1"/>
+            <pb facs="tcp:51049:1"/>
+            <pb facs="tcp:51049:2"/>
+            <pb facs="tcp:51049:2" rendition="simple:additions"/>
+            <p>A <hi>Journey to Jeruſalem:</hi> OR, A RELATION OF THE Travels of Fourteen <hi>Engliſh-Men,</hi> in the Year, 1669.</p>
+            <p>From <hi>Scanderoon,</hi> to <hi>Tripoly, Joppa, Ramah, <hi>Ieruſalem,</hi> Bethlem, Jeri<g ref="char:EOLhyphen"/>cho,</hi> the River <hi>Jordan,</hi> the <hi>Dead Sea;</hi> And back again to <hi>Aleppo.</hi>
+            </p>
+            <p>With an Exact Account of all the Remarkable <hi>Places</hi> and <hi>Things</hi> in their whole JOURNEY.</p>
+            <p>In a Letter from <hi>T. B.</hi> in <hi>Aleppo,</hi> to his Friend in <hi>London.</hi>
+            </p>
+            <p>Together with a <hi>Map,</hi> and brief Account of the <hi>Ancient</hi> and <hi>Modern</hi> State of thoſe Countries.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for <hi>N. Crouch</hi> in <hi>Exchange-Alley</hi> over againſt the <hi>Royal Ex<g ref="char:EOLhyphen"/>change</hi> in <hi>Cornhil,</hi> 1672.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:51049:3"/>
+            <p>
+               <figure>
+                  <head>A Iourney to IERVSALEM in the year 1669</head>
+                  <p>The Temple of the Sepulcher</p>
+                  <p>Ieruſalem as it now is</p>
+                  <p>London <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ted for N Crouch in Exchange <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:51049:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:51049:4" rendition="simple:additions"/>
+            <pb facs="tcp:51049:4" rendition="simple:additions"/>
+            <head>To the Reader</head>
+            <p>THis Relation comming to my Hands, I thought it might be ſome Diverſion, to Obſerve what the Ig<g ref="char:EOLhyphen"/>norant are made to Believe, of thoſe once Famous Places.</p>
+            <p>And though others have for<g ref="char:EOLhyphen"/>merly Treated of theſe Parts, yet we have hardly had an Exact Account ſince Mr. <hi>Sandys,</hi> which being ſo long ſince, No doubt ſome things are Altered, ſome Worn out of Memory, and it may be, many more <hi>Legends</hi> Added, Ac<g ref="char:EOLhyphen"/>cording as it may ſtand with the Intereſt and Profit of the Prieſts.</p>
+            <p>
+               <pb facs="tcp:51049:5" rendition="simple:additions"/>
+If the Stile be not ſo Polite and Curious, as might be Wiſht, I dare Aſſure the Reader that the Author never intended it for Pub<g ref="char:EOLhyphen"/>like Veiw, but Writ it only as a Letter, to ſatisfy the deſire of his Intimate Friends; wherein Men do not commonly ſo much Study Elloquence, as plaineſs and Truth; The laſt whereof I Suppoſe the Author is Guilty of, becauſe he had no Temptation to do Other<g ref="char:EOLhyphen"/>wiſe; for I think it is not much Material to him, whether it be Be<g ref="char:EOLhyphen"/>lieved or noe. And therefore you may Read, and Judg of it as you Pleaſe.</p>
+         </div>
+         <div type="description">
+            <pb facs="tcp:51049:5"/>
+            <head>A Brief Deſcription of <hi>Paleſtine,</hi> with an Ac<g ref="char:EOLhyphen"/>count of the Ancient and Modern State of thoſe Countries.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N Former Ages, this was One of the moſt Famouſ<g ref="char:EOLhyphen"/>eſt Provinces of <hi>Sy<g ref="char:EOLhyphen"/>ria:</hi> Called,</p>
+            <p>Firſt, The Land of <hi>Canaan,</hi> from <hi>Canaan</hi> the Son of <hi>Cham,</hi> who by his often Cha<g ref="char:EOLhyphen"/>ſings
+<pb facs="tcp:51049:6"/>was driven to Poſſeſs and Inhabite the ſame.</p>
+            <p>Secondly, It was called the <hi>Land of Promiſe,</hi> becauſe the Lord had Promiſed it to the Pa<g ref="char:EOLhyphen"/>triarcks, <hi>Abraham, Iſaack</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> and their Seed.</p>
+            <p>Thirdly, <hi>Jſrael,</hi> of the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi> ſo called from <hi>Jacob,</hi> who was Sur-named <hi>Iſrael.</hi>
+            </p>
+            <p>Fourthly, <hi>Judea,</hi> from the <hi>Jews,</hi> or People of the Tribe of <hi>Juda.</hi>
+            </p>
+            <p>Fifthly, <hi>Paleſtine,</hi> by <hi>Ptolo<g ref="char:EOLhyphen"/>mays</hi> and others, <hi>quaſi Philiſtini:</hi> The Land of the <hi>Philiſtines,</hi> a potent Nation that dwelt there.</p>
+            <p>Sixthly, The Holy Land, ſo Na<g ref="char:EOLhyphen"/>med by the Chriſtians, becauſe herein was Wrought by <hi>Chriſt,</hi> the Work of our Salvation.</p>
+            <p>This Country is Situated in
+<pb facs="tcp:51049:6"/>the midſt of the World, Be<g ref="char:EOLhyphen"/>tween the Third and Fourth Cli<g ref="char:EOLhyphen"/>mates, the longeſt Day being Fourteen Hours and a quarter, be<g ref="char:EOLhyphen"/>tween the <hi>Midland Sea</hi> and <hi>A<g ref="char:EOLhyphen"/>rabia,</hi> from which it is Bulwar<g ref="char:EOLhyphen"/>ked beyond <hi>Jordan</hi> with a con<g ref="char:EOLhyphen"/>tinual Ridg of Mountaines; on the Eaſt lyes <hi>Celoſgoia,</hi> and <hi>A<g ref="char:EOLhyphen"/>rabia Petrea;</hi> on the South <hi>Idu<g ref="char:EOLhyphen"/>mea,</hi> the Wilderneſs of <hi>Pharam</hi> and <hi>Egypt;</hi> in the Weſt a part of <hi>Phenicia,</hi> and the reſt, hath the <hi>Mediterranean-Sea;</hi> and on the North are the Mountaines of <hi>Libanus,</hi> and a part of <hi>Pheni<g ref="char:EOLhyphen"/>cia:</hi> It is diſtant from the Equi<g ref="char:EOLhyphen"/>noctial Thirty one Degrees, exten<g ref="char:EOLhyphen"/>ding to Thirty Three; ſo that in length from <hi>Dan</hi> unto <hi>Berſheba,</hi> it containeth not more then Four Hundred Miles; and where
+<pb facs="tcp:51049:7"/>it is Broadeſt, not Fifty.</p>
+            <p>This Famous Land was once commended above all Coun<g ref="char:EOLhyphen"/>tries under the Sun, eſpecial<g ref="char:EOLhyphen"/>ly in regard of the Salubritie and Wholſomeneſs of the Ayr, being Seated under a Tempe<g ref="char:EOLhyphen"/>rate Clime, where the Win<g ref="char:EOLhyphen"/>ter is not too Cold, nor the Summer too Hot; and for Fer<g ref="char:EOLhyphen"/>tility, a Land that Floweth with Milk and Hony, Adorned with Beautified Mountaines, and de<g ref="char:EOLhyphen"/>lightful Valleys; the Rock pro<g ref="char:EOLhyphen"/>ducing Excellent Waters, and no part empty of Delight or Profit; for the Soyle yeilds abundance of all Fruits and In<g ref="char:EOLhyphen"/>creaſe.</p>
+            <p>This Land aboundeth in ſweet Springs, and pleaſant Paſtures; where they feed a great many
+<pb facs="tcp:51049:7"/>Flocks of Sheep, and herds of Cattle and Cowes which give excellent Milk as is in any Country in the World; There is alſo brave Hunting and Hawking; for Deere, Goats, Hares, Partridges, Quailes, and other Birds: Likewiſe, they have all kind of Fowle, alſo there are great ſtore of Lyons, Beares and Wolves, found in Abundance.</p>
+            <p>The Land of <hi>Canaan</hi> was heretofore divided into Thirty Kingdomes, and Kings when the <hi>Iſraelites</hi> Conquered it; the moſt of the Ancient inhabitants being for their Sins by God Ex<g ref="char:EOLhyphen"/>cluded the Land, and put to the Sword by the <hi>Iſraelites:</hi> The <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> Ruled this Land, about Foure Hundred Years, by Prin<g ref="char:EOLhyphen"/>ces and Judges, till the time of
+<pb facs="tcp:51049:8"/>
+               <hi>Samuel:</hi> Theſe Princes or Judges, were not all of one Tribe, but the Beſt, Graveſt, and Eldeſt, were Selected, and Choſen out of every Tribe. Afterwards the <hi>Iſraelites</hi> growing weary of this Government, at their Earneſt re<g ref="char:EOLhyphen"/>queſt, the Lord appointed them a King, and ſo their Government was Changed into a <hi>Monarchie,</hi> which continued many Ages; but in proceſs of time, the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> endured many Miſeries, and Afflictions, till at laſt they ſaw the utter Ruine and ſubvertion of their Kingdome.</p>
+            <p>What Alteration hapened to this Nation, and with how ma<g ref="char:EOLhyphen"/>ny ſeveral Wars they were Pla<g ref="char:EOLhyphen"/>gued (either becauſe of their own ſtifneckedneſs, that they would not be Obedient to their
+<pb facs="tcp:51049:8"/>own Prince, or brook any for<g ref="char:EOLhyphen"/>reign Government, or that for their Rebellion and Sins, the Wrath of God was oftentimes Kindled againſt them; or that Forreigne Princes were Ambi<g ref="char:EOLhyphen"/>tious to Incorporate this happy Land, Holy Writ and <hi>Hiſtori<g ref="char:EOLhyphen"/>graphers</hi> Witneſs the ſame at large; for how many times were they Subdued and brought into Slavary, and Bondage, becauſe of their Sins, and that they did not Govern and behave themſelves well? for ſometimes their Necks were brought under the Yoakes of their Neighbours, as the <hi>E<g ref="char:EOLhyphen"/>gyptians, Caldeans, Meads, Per<g ref="char:EOLhyphen"/>ſians, Macedonians</hi> and <hi>Romans,</hi> yea, and would never ceaſe by their Rebellions, Seditions, and Conſpiracies, till they had
+<pb facs="tcp:51049:9"/>brought their Government and Countrey to utter Deſtruction, by Perſecuting and putting to Death, the Saints and Prophets, ſent them from God; yea, and at laſt Crucifying the Son of God, the Lord of Glory, and the Saviour of Man-kind, by their Horrible and Murderous Hands, and Nailing him to the Croſs.</p>
+            <p>And finally, wiſhing that his In<g ref="char:EOLhyphen"/>nocent Bloud ſhould be on them and their Children;</p>
+            <p>Which accordingly ſoon after happened to the utter Deſolation of their Countrey, the <hi>Romans</hi> laying waſt, and levelling to the Ground, the Magnificent Struct<g ref="char:EOLhyphen"/>ures and Buildings thereof, de<g ref="char:EOLhyphen"/>ſtroying and burning <hi>Jeruſalem,</hi> the Temple, and all the Orna<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:51049:9"/>thereof; ſo that herein was verified the Prophecy of Chriſt while he was upon the Earth, <hi>that one Stone ſhould not be left upon Another.</hi>
+            </p>
+            <p>And as for the People, Di<g ref="char:EOLhyphen"/>vine Venegance did continually purſue them till the moſt part of them were deſtroyed, and the reſt Diſperſed through out the World, even to this Day.</p>
+            <p>For Firſt, The Inhabitants of <hi>Ceſarea</hi> ſlew of the <hi>Jews</hi> in one Day, about Twenty Thouſand, and ſuch as fled, were taken and Impriſoned by <hi>Florus</hi> the Leiu<g ref="char:EOLhyphen"/>tenant of <hi>Judea.</hi>
+            </p>
+            <p>To Revenge this Slaughter, the <hi>Jews</hi> ſet upon the <hi>Syrians;</hi> in which Skirmiſh Thirteen Thou<g ref="char:EOLhyphen"/>ſand of them were Slain. The People of <hi>Alexandria</hi> put Fifty
+<pb facs="tcp:51049:10"/>Thouſand of them to the Sword; They of <hi>Damaſcus</hi> ten Thouſand of them: and <hi>Antonius</hi> a <hi>Roman</hi> Captain, ſlew in <hi>Aſcalon</hi> Ten Thouſand; and <hi>Ceſtius</hi> another Captain, ſlew Fourſcore Thou<g ref="char:EOLhyphen"/>ſand and Forty Perſons. And now to come to the Wars man<g ref="char:EOLhyphen"/>naged here by <hi>Veſpaſian.</hi>
+            </p>
+            <p>This <hi>Veſpaſion,</hi> in the Seige of <hi>Aphaca,</hi> ſlew and took Priſoners Seventeen Thouſand, One Hun<g ref="char:EOLhyphen"/>dred and Thirty Perſons: in <hi>Sama<g ref="char:EOLhyphen"/>ria</hi> Eleaven Thouſand Six Hun<g ref="char:EOLhyphen"/>dred Perſons: and in <hi>Joſepata</hi> Forty two Thouſand two Hun<g ref="char:EOLhyphen"/>dred Perſons. In <hi>Joppa</hi> ſo ma<g ref="char:EOLhyphen"/>ny Killed and Drowned them<g ref="char:EOLhyphen"/>ſelves, that the Sea threw up again Four Thouſand two Hundred Per<g ref="char:EOLhyphen"/>ſons; and the reſt ſo totally pe<g ref="char:EOLhyphen"/>riſhed, that there remained none
+<pb facs="tcp:51049:10"/>to carry tydings to <hi>Jeruſalem</hi> of the loſs of the Town.</p>
+            <p>In the City of <hi>Tarichea,</hi> were Slain and made Captives, Forty five Thouſand Perſons, beſides thoſe which were given to the King <hi>Agrippa:</hi> In <hi>Gamala</hi> there periſh<g ref="char:EOLhyphen"/>ed Ninety Thouſand, and none were left alive but only two Wo<g ref="char:EOLhyphen"/>men. In <hi>Gaſcala</hi> Five Thouſand Men died by the Sword. In the City of <hi>Gadara,</hi> there were Slain Thirty two Thouſand two Hun<g ref="char:EOLhyphen"/>dred, beſides an infinite number of ſuch as Drowned themſelves. In <hi>Jeruſalem</hi> it ſelf, there Died Eleven Hundred Thouſand of them, partly by the Sword, and partly by Famine, the worſe E<g ref="char:EOLhyphen"/>nemy of the two; there were found two Thouſand in Privies and Sinks; and Ninety Seaven
+<pb facs="tcp:51049:11"/>Thouſand were taken priſoners, inſomuch, that thirty <hi>Jews</hi> were ſold for a Peny.</p>
+            <p>Now that <hi>Jeruſalem</hi> was able to contain ſuch a number of Peo<g ref="char:EOLhyphen"/>ple, is evident, in that when <hi>Ceſtius</hi> was Leiuetenant of <hi>Jury,</hi> the high Prieſt did, at his Re<g ref="char:EOLhyphen"/>queſt, number the People, which came to Eat of the <hi>Paſchal</hi> Lamb, and found them to be two Mil<g ref="char:EOLhyphen"/>lions, and Seven Hundred Thou<g ref="char:EOLhyphen"/>ſand living Souls, all Sound and Purified.</p>
+            <p>And when <hi>Titus</hi> laid Seige to the City, it was at the Feaſt of the Paſſeover, when moſt of the People were there Aſſembled; God as it were thus Impriſoning them.</p>
+            <p>All theſe Maſſacres, beſides di<g ref="char:EOLhyphen"/>vers others Omitted, and infinite
+<pb facs="tcp:51049:11"/>Numbers which were Slain in the Feilds and Villages, which Drow<g ref="char:EOLhyphen"/>ned themſelves, and were pri<g ref="char:EOLhyphen"/>vately made away, Amounting to almoſt two Millions of Peo<g ref="char:EOLhyphen"/>ple, happened in the compaſs of foure Years, beginning in the twelſe of <hi>Nero,</hi> and ending in the ſecond of <hi>Veſpaſian.</hi>
+            </p>
+            <p>Yet was not the whole Nati<g ref="char:EOLhyphen"/>on Rooted out till the Year One Hundred Thirty Six. For then this Miſerable People having ſtir<g ref="char:EOLhyphen"/>red two notable Rebellions, Firſt under <hi>Trajan,</hi> and aſterward under <hi>Adrian</hi> the Emperours, they were generally Baniſhed their Native Countrey, and never again ſuf<g ref="char:EOLhyphen"/>fered to inhabit it, but as Stran<g ref="char:EOLhyphen"/>gers.</p>
+            <p>After this Deſolation, the <hi>Jews</hi> were diſperſed all over the World,
+<pb facs="tcp:51049:12"/>and eſpecially in <hi>Spain,</hi> where <hi>Adrian</hi> Commanded many of them to dwell; yet they found every where ſo little Favour, that having divers times been put to greivous Mulcts and Ranſomes, they were at laſt quite t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt out of <hi>Europe</hi> alſo.</p>
+            <p>The Firſt Chriſtian Prince that expelled the <hi>Jews</hi> out of his Territories, was that Heroick King, our <hi>Edward</hi> the Firſt, who was ſuch a ſore Scowrge alſo to the <hi>Scots;</hi> and it is thought, di<g ref="char:EOLhyphen"/>vers Families of thoſe Baniſhed <hi>Jews</hi> fled then to <hi>Scotland,</hi> where they have propagated ſince in great Numbers; Witneſs the A<g ref="char:EOLhyphen"/>verſion this Nation hath above others to Hogs-Fleſh.</p>
+            <p>Nor was this their Extermi<g ref="char:EOLhyphen"/>nation for their Religion, but for
+<pb facs="tcp:51049:12"/>their notorious Crimes; as poi<g ref="char:EOLhyphen"/>ſoning of Wells, Counterfeiting of Coins, falſifying of Seals, and Crucifying of Chriſtian Chil<g ref="char:EOLhyphen"/>dren; with other Villanies. This happened in the Year One Thou<g ref="char:EOLhyphen"/>ſand Two Hundred Ninety One.</p>
+            <p>And Sixteen Years after, <hi>France</hi> followed our Example.</p>
+            <p>It was neer two Hundred Years after, that <hi>Ferdinand</hi> turn'd them out of <hi>Spain;</hi> and five years after him, <hi>Emanual</hi> of <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> did the like.</p>
+            <p>But the Countreys from whence they were Laſt expelled, were <hi>Naples</hi> and <hi>Sicily,</hi> in the Year One Thouſand Five Hundred Thirty Nine. In other parts of Chri<g ref="char:EOLhyphen"/>ſtendome they reſide yet, in great numbers, as in <hi>Germany</hi> High and Low; <hi>Bohemia, Lituania,
+<pb facs="tcp:51049:13"/>Poland</hi> and <hi>Ruſſia;</hi> In <hi>Italy</hi> alſo they are found, but in no Coun<g ref="char:EOLhyphen"/>trey which is ſubject to the King of <hi>Spain.</hi>
+            </p>
+            <p>They live very quietly at <hi>Rome</hi> under the Popes noſe, and St. <hi>Mark</hi> makes no Scruple to entertain them at <hi>Venice:</hi> In ſun<g ref="char:EOLhyphen"/>dry places of the <hi>Ottoman</hi> Empire they are found very numerous; ſo that it is thought <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi> and <hi>Theſſalonica</hi> only, have near upon twenty Thouſand of them.</p>
+            <p>
+               <hi>Aſia</hi> is full of them, as <hi>Aleppo, Tripoly, Damaſcus, Rhodes,</hi> and in<g ref="char:EOLhyphen"/>deed all places of commerce and Traffique; There are numbers of themifound alſo in <hi>Perſia, Arabia,</hi> and about <hi>Cranganor</hi> in <hi>India.</hi>
+            </p>
+            <p>And to come to <hi>Affrick,</hi> they have their Synagogues and Lum<g ref="char:EOLhyphen"/>bards
+<pb facs="tcp:51049:13"/>bards, in <hi>Alexandria,</hi> the <hi>Gran Cairo,</hi> as alſo in <hi>Feſſe,</hi> in <hi>Tre<g ref="char:EOLhyphen"/>miſeu,</hi> and divers places in the Kingdome of <hi>Morocco:</hi> there are about one hundred Families left in <hi>Jeruſalem.</hi> But the place where they are moſt unmingled, is <hi>Tibe<g ref="char:EOLhyphen"/>rias,</hi> which the <hi>Turks</hi> gave to <hi>Mendez</hi> the <hi>Jew,</hi> for ſome ſignal ſervices; thither they oftentimes bring or ſend the bones of their dead freinds, who have left large Legacies to be there interred from other places.</p>
+            <p>The City of <hi>Jeruſalem</hi> was af<g ref="char:EOLhyphen"/>terward re-edified by <hi>Elius A<g ref="char:EOLhyphen"/>drianus,</hi> and given to the Chriſti<g ref="char:EOLhyphen"/>ans, from whom it was taken by <hi>Coſroes,</hi> and the <hi>Preſians,</hi> in the Year Six Hundred Fifteen, and from them forcibly wreſted by <hi>Hau<g ref="char:EOLhyphen"/>mar,</hi> and the <hi>Saracens,</hi> in the Year
+<pb facs="tcp:51049:14"/>Six Hundred Thirty Seven. Next it fell into the power of <hi>Cutlu Moſes,</hi> and the <hi>Turks,</hi> in the Year One Thouſand Nine; under whoſe oppreſſion, when it had long groa<g ref="char:EOLhyphen"/>ned, <hi>Peter</hi> the Hermit ſtirred up the <hi>Weſterne</hi> Princes to relieve the diſtreſſed Chriſtians, whoſe deſigns attained their wiſhed effect, under the Banner of the Victorious Prince, <hi>Godfrey</hi> of <hi>Bullen,</hi> in the Year One Thouſand Ninety Nine. This <hi>Godfrey,</hi> for his merits, was to have been inveſted with the Royal Wreath of Majeſty, which he denied, thinking it unfit to wear a Crown of Gold, where his Saviour had Worn a Crown of Thorns; yet for the Common good ſake he accepted the Title; after whom
+<pb facs="tcp:51049:14"/>reigned theſe Chriſtian Prin<g ref="char:EOLhyphen"/>ces.</p>
+            <p>Second, <hi>Baldwin.</hi> Third, <hi>Baldwin</hi> the Second. Fourth, <hi>Fulk</hi> Earl of <hi>Anjou.</hi> Fifth, <hi>Bald<g ref="char:EOLhyphen"/>win</hi> the Third. Six, <hi>Almerick.</hi> Seventh, <hi>Baldwin</hi> the Fourth. Eight, <hi>Baldwin</hi> the fifth. Ninth, <hi>Guy</hi> of <hi>Luſignan,</hi> the laſt King of <hi>Jeruſalem;</hi> during whoſe time, <hi>Saladine</hi> the Sultan of <hi>Egypt,</hi> won the Kingdom, which his Succeſſours defended againſt all invaſions, till the Year One Thouſand Five Hundred Seven<g ref="char:EOLhyphen"/>teen, when <hi>Selinus</hi> the firſt Em<g ref="char:EOLhyphen"/>perour of the <hi>Turks,</hi> added the Holy <hi>Land</hi> together with <hi>Egypt</hi> to his Empire: And ſo the whole Countrey of <hi>Paleſtine,</hi> with the City of <hi>Jeruſalem,</hi> are under the dominion of the <hi>Turk</hi> to this
+<pb facs="tcp:51049:15"/>day, and is inhabited by ſome <hi>Chriſtians</hi> (who make a great benefit of ſhewing the Sepulcher of Chriſt) and of late Years alſo, by <hi>Moors, Arabians, Greeks, La<g ref="char:EOLhyphen"/>tines, Turks, Jews,</hi> nay, I may ſafely, and probably ſay, with People of all Nations.</p>
+            <p>The whole Land containeth Four Regions, <hi>Idumea, Judea, Samaria,</hi> and <hi>Gallilee, Idumea,</hi> beginneth at Mount <hi>Caſſius;</hi> or as ſome will, at the Lake <hi>Sirbon,</hi> reaching to the Eaſtward of <hi>Judea;</hi> The Cheif Cities are <hi>Mareſa, Rhinocorura, Rapha, Antedon, Aſcalon, Azotus,</hi> and <hi>Gaza.</hi>
+            </p>
+            <p>
+               <hi>Mareſa</hi> was the birth-place of the Prophet <hi>Micha.</hi> Neer unto this town, <hi>Judas Machabeus</hi>
+               <pb facs="tcp:51049:15"/>overthrew <hi>Gorgius, Rhinocorura, Rapha,</hi> and <hi>Atedon,</hi> are towns of no great note. Of <hi>Aſcalon</hi> Sir <hi>George Sandis</hi> writeth thus in his travels, That it is a place now of no great Reckoning, more then that the <hi>Turk</hi> doth keep there a garri<g ref="char:EOLhyphen"/>ſon: Venerable heretofore a<g ref="char:EOLhyphen"/>mongſt the heathen for the Tem<g ref="char:EOLhyphen"/>ple of <hi>Dagon,</hi> and the Birth of <hi>Si<g ref="char:EOLhyphen"/>miramis</hi> begotten of the Goddeſs <hi>Decreta,</hi> who enflamed with the love of a certaine youth, that Sacrificed unto her, and having by him a daughter, aſhamed of her Incontinency did put him away, and Expoſed the Child to the deſarts, and Confounded with ſorrow, threw her ſelf into a lake re<g ref="char:EOLhyphen"/>pleniſhed which fiſh, adjoyning to the City: this <hi>Decreta</hi> is ſaid to be that <hi>Dagon</hi> the Idol of
+<pb facs="tcp:51049:16"/>the <hi>Agrotonites</hi> mentioned in the Scripture, which ſignifieth the firſt of ſorrow: who had her Temple cloſe by the Lake, with her Image in the figure of a Fiſh, excepting the Face, which reſembled a woman; But the Infant nouriſhed by Doves, which brought her Milk from the pailes of the Paſtures: after became the wiſe of <hi>Ninus,</hi> and Queen of <hi>Aſſyria;</hi> whereupon ſhe was called <hi>Semi<g ref="char:EOLhyphen"/>ramis,</hi> which ſignifieth a dove in the <hi>Syrian</hi> tongue: in memo<g ref="char:EOLhyphen"/>rial whereof the Babylonians did bear a Dove in their En<g ref="char:EOLhyphen"/>ſignes, confirmed by the Pro<g ref="char:EOLhyphen"/>pheſie of <hi>Jeremiah,</hi> who fore<g ref="char:EOLhyphen"/>telling of the devaſtation of <hi>Judea,</hi> Adviſeth them to flee from the ſword of the dove.</p>
+            <p>
+               <hi>Azotes,</hi> where was a Sumptuous
+<pb facs="tcp:51049:16"/>Temple built to the Lieutenant to <hi>Demetrius:</hi> eight miles beyond that ſtands <hi>Acharon</hi> or <hi>Ekron,</hi> where <hi>Belzebub</hi> was worſhipped, to whom <hi>Ahaziah</hi> ſent to enquire of his health.</p>
+            <p>Laſtly, <hi>Gaza</hi> or <hi>Aza,</hi> one of the five Principal Cities belong<g ref="char:EOLhyphen"/>ing to the Palaſtines (called Phi<g ref="char:EOLhyphen"/>liſtines in Scripture) <hi>Gaza</hi> ſig<g ref="char:EOLhyphen"/>nifieth Strong, and in the Per<g ref="char:EOLhyphen"/>ſian, language a Treaſury; So ſaid to be called by <hi>Cambyſes,</hi> who Invading <hi>Egypt,</hi> ſent thither the riches Purchaſed in that Warr; it was alſo called <hi>Conſtantia</hi> by the Emperour <hi>Conſtantine,</hi> firſt famous for the acts of <hi>Sampſon,</hi> who lived about the time of the <hi>Trojan</hi> Warrs, whoſe force and fortunes are ſaid to have given to the Poets their invention of
+<pb facs="tcp:51049:17"/>
+               <hi>Hercules,</hi> who lived not long be<g ref="char:EOLhyphen"/>fore him: And it was afterwards famous for two Wounds there received by <hi>Alexander</hi> the great, and was then counted the Chief of <hi>Syria.</hi>
+            </p>
+            <p>Alſo there lyeth <hi>Joppa</hi> now <hi>Jafta,</hi> a Famous Mart Town, and a good Haven; where <hi>Jonah</hi> took Ship to fly to <hi>Tar<g ref="char:EOLhyphen"/>ſus,</hi> where <hi>Peter</hi> Raiſed <hi>Dorcas</hi> from Death to Life, and where he lying in the Houſe of one <hi>Simon</hi> a Tanner, was in a Vi<g ref="char:EOLhyphen"/>ſion, Taught the Converſion of the <hi>Gentiles.</hi> This City they report to have been built before the Flood. Here Reign<g ref="char:EOLhyphen"/>ed <hi>Cepheus</hi> the Son of <hi>Phenix,</hi> whoſe Daughter <hi>Andromeda</hi> was by <hi>Perſeus</hi> delivered from a Sea Monſter, ſome of whoſe
+<pb facs="tcp:51049:17"/>Bones the people had wont to ſhew to Strangers, even till the Flouriſhing of the <hi>Romans:</hi> Here lyeth <hi>Gath</hi> alſo, the Coun<g ref="char:EOLhyphen"/>try of the huge Giant <hi>Go<g ref="char:EOLhyphen"/>liah.</hi>
+            </p>
+            <p>
+               <hi>Judea</hi> is the Chiefeſt part of <hi>Palaſtina,</hi> and is of the ſame extent now, as it was when it was the Kingdome of <hi>Judea,</hi> and entertained the two great and Puiſſant Tribes of <hi>Judea</hi> and <hi>Benjamin.</hi> It lyeth between the <hi>Midland-Sea</hi> and <hi>Lacus Aſ<g ref="char:EOLhyphen"/>phaltitis,</hi> or the <hi>Dead-Sea,</hi> and betwixt <hi>Samaria</hi> and <hi>Idumea:</hi> It took this name from the Tribe of <hi>Juda,</hi> in which lyeth the once famous City <hi>Jeruſa<g ref="char:EOLhyphen"/>lem.</hi>
+            </p>
+            <p>Beſides <hi>Jeruſalem</hi> alſo, there are in this Country divers o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:51049:18"/>Towns and famous Cities; as <hi>Jerico, Turris Stratonis,</hi> af<g ref="char:EOLhyphen"/>terward named <hi>Ceſarea; He<g ref="char:EOLhyphen"/>bron</hi> formerly, now <hi>Arbea;</hi> al<g ref="char:EOLhyphen"/>ſo <hi>Mambre;</hi> and <hi>Carioth;</hi> that is to ſay, a Town of four Men, the Birth - place of <hi>Judas Iſ<g ref="char:EOLhyphen"/>cariot,</hi> who betrayed our Savi<g ref="char:EOLhyphen"/>our Jeſus Chriſt; <hi>Emaus,</hi> and divers others; and Beyond <hi>Jordan Makherus,</hi> a Town with a ſtrong Caſtle: here ſtood alſo the Towns of <hi>Sodom</hi> and <hi>Gomorah,</hi> which for their Sodomy and Abomination, were utterly de<g ref="char:EOLhyphen"/>ſtroyed and conſumed with Fire from Heaven; and lyes now buried in that Curſed Lake <hi>Aſphalites;</hi> ſo named of the <hi>Bitumen</hi> where it Vo<g ref="char:EOLhyphen"/>miteth; called alſo the Dead-Sea, perhaps in that it nouriſh<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:51049:18"/>no living Creature, or for his heavy Waters hardly to be moved with any Wind; ſo Extream Salt, that whatſo<g ref="char:EOLhyphen"/>ever is thrown thereinto, not eaſily Sinketh: <hi>Vaſpatian</hi> for a tryal, cauſeth divers to be Caſt in bound Hand and Foot, who Floted Aloft, as if Sup<g ref="char:EOLhyphen"/>ported by ſome Spirit. They ſay, that Birds, Flying over it fall in as if Inchanted or Suf<g ref="char:EOLhyphen"/>focated with the Poyſon of the Aſcending Vapors. <hi>Samaria</hi> ly<g ref="char:EOLhyphen"/>eth in the Midſt, between <hi>Ju<g ref="char:EOLhyphen"/>dea,</hi> and <hi>Gallilea;</hi> the Land is ſo called from the Metrapolis <hi>Samaria,</hi> Built by <hi>Amry</hi> King of <hi>Iſrael,</hi> and now called <hi>Se<g ref="char:EOLhyphen"/>baſta;</hi> which Towns in it, are <hi>Sichem,</hi> afterwards Named <hi>Ne<g ref="char:EOLhyphen"/>apolis, Capernaum, Betzaida</hi> and <hi>Chorazin.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:51049:19"/>
+               <hi>Galilea</hi> lyeth between <hi>Mount Labanus</hi> and <hi>Samaria,</hi> and is divi<g ref="char:EOLhyphen"/>ded into upper and lower <hi>Galilea;</hi> Upper <hi>Galilea</hi> bordereth upon <hi>Ty<g ref="char:EOLhyphen"/>rus,</hi> called otherwiſe <hi>Galilea-Gentium,</hi> or the Heatheniſh <hi>Ga<g ref="char:EOLhyphen"/>lilea;</hi> Lower <hi>Galilea</hi> lyeth near unto the Lake of <hi>Tyberius,</hi> and to <hi>Nazareth:</hi> In it are the Towns of <hi>Naim, Cana, Nazareth</hi> and <hi>Gadara.</hi> The <hi>Holy Land</hi> is ſeated between two Seas, and the Ri<g ref="char:EOLhyphen"/>ver <hi>Jordan;</hi> it hath within it many Navigable Lakes, and Meers, abounding with Fiſh; the River <hi>Jordan</hi> is called by the <hi>Hebrews, Jordan,</hi> and run<g ref="char:EOLhyphen"/>neth through the Midſt of this Countrey, dividing it into two Parts. St. <hi>Jerom</hi> Writeth that this River Springeth out of two Fountaines, not far di<g ref="char:EOLhyphen"/>ſtant
+<pb facs="tcp:51049:19"/>one from the other; the one called <hi>Jor,</hi> the other <hi>Dan,</hi> ſhooting out like two Horns, which meeting together, make the Great River <hi>Jordan.</hi> The Chief Mountains in the Holy Land, are Mount <hi>Hermon,</hi> lying in the Eaſt part thereof, and Mount <hi>Tabor</hi> in the Weſt, both of them being very Great and High, ſo that the other Hills about them, are but Armes and Branches of them: For the Mountaines <hi>Eball, Betheron, Miſpa</hi> or <hi>Maſpha,</hi> and <hi>Bethel,</hi> are reckoned under Mount <hi>Her<g ref="char:EOLhyphen"/>mon, Gilboa, Gerezin, Sarona,</hi> and <hi>Mount-Carmel</hi> by the Sea ſide, are counted under Mount <hi>Tabor.</hi>
+            </p>
+            <p>There are alſo about <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> Mount <hi>Sion, Moriah,</hi>
+               <pb facs="tcp:51049:20"/>Mount <hi>Olivet,</hi> Mount <hi>Calvary,</hi> and others: Beſides there are many Goodly Woods, and For<g ref="char:EOLhyphen"/>reſts, full of all kind of Deer, and many Wild Beaſts.</p>
+            <p>In this Land, eſpecially in about and <hi>Jeruſalem,</hi> there were many Stately and Magnificent Buildings, as Namely <hi>Mons Domus,</hi> and the Caſtle of the <hi>Jebuſites,</hi> into which King <hi>Da<g ref="char:EOLhyphen"/>vid</hi> brought the Ark of the Lord, where it remained till <hi>Solomons</hi> Temple was Fini<g ref="char:EOLhyphen"/>ſhed. The remainders and Ru<g ref="char:EOLhyphen"/>ines of theſe Buildings, are yet to be ſeen to this Day; yea, it is ſaid, that in the ve<g ref="char:EOLhyphen"/>ry Place, the Lord Chriſt Eat the <hi>Paſcal</hi> Lamb with his Diſciples: There are alſo to be ſeen, the Sepulchers of King
+<pb facs="tcp:51049:20"/>
+               <hi>David,</hi> and other Kings of <hi>Ju<g ref="char:EOLhyphen"/>da;</hi> there ſtood alſo the Houſe of <hi>David,</hi> which yet retaineth the Name of <hi>Davids</hi> Tower. Upon Mount <hi>Moriah</hi> are yet to be ſeen ſome remainders of <hi>Mello.</hi> Above all, we muſt call to mind the moſt Excellent and Beautiful Temple of King <hi>Solomon,</hi> upon which One Hun<g ref="char:EOLhyphen"/>dred and Fifty Thouſand Men Wrought Seven Years continu<g ref="char:EOLhyphen"/>ally, till it was Finiſhed. The Glory and Magnificency there<g ref="char:EOLhyphen"/>of you may Read in the Scrip<g ref="char:EOLhyphen"/>ture. The Temple of the Se<g ref="char:EOLhyphen"/>pulcher at the firſt Building was highly Reverenced by the Chriſtians of thoſe parts, and even until this Day it is much reſorted to, both by Pilgrims from all parts of the Romiſh
+<pb facs="tcp:51049:21"/>Church, and alſo by divers Gentlemen of the Reformed Churches; partly for Curioſi<g ref="char:EOLhyphen"/>ty, and partly for Antiquity of the place. It is Farmed from the <hi>Turk,</hi> and kept by the <hi>Popes</hi> Creatures; whoſoever is ad<g ref="char:EOLhyphen"/>mitted to the ſight of this Se<g ref="char:EOLhyphen"/>pulcher, payeth Nine Crowns to the <hi>Turkiſh</hi> Officers: ſo that this Tribute is worth to the Grand Seignior, Eight Thouſand Duccats Yearly.</p>
+            <p>And thus much briefly for the Deſcription of the Holy Land, or Land of Promiſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51049:21"/>
+            <pb facs="tcp:51049:22"/>
+            <pb facs="tcp:51049:22"/>
+            <pb facs="tcp:51049:23"/>
+            <pb n="1" facs="tcp:51049:23"/>
+            <head>A JOURNEY TO <hi>JER<g ref="char:V">Ʋ</g>SALEM.</hi>
+            </head>
+            <head type="sub">Aleppo.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <hi>THeſe ſerve to Accompany an Account of my Jour<g ref="char:EOLhyphen"/>ney to the</hi> Holy Land, <hi>for which I might refer you to others, who have given a moſt exact Relation of that Pil<g ref="char:EOLhyphen"/>grimage,
+<pb n="2" facs="tcp:51049:24"/>yet according to your deſires, I preſent you with this my Deſcription.</hi>
+            </p>
+            <p>TUeſday <hi>May</hi> 3. 1669. we ſet Sail from <hi>Scanderoon,</hi> with a <hi>N. E.</hi> wind on the <hi>Margaret, Tho. Middleton</hi> Commander, be<g ref="char:EOLhyphen"/>ing fourteen Engliſh Men, (of the Factory of <hi>Aleppo</hi>) in Com<g ref="char:EOLhyphen"/>pany; but being forced to re<g ref="char:EOLhyphen"/>turn three times, by contrary Winds, by <hi>May</hi> 10. we arrived at <hi>Trippoly,</hi> whoſe Port is guar<g ref="char:EOLhyphen"/>ded with ſix ſmall Caſtles, near the Sea, and one great Caſtle upon the Land; and is defen<g ref="char:EOLhyphen"/>ded from Tempeſts, on the Weſt with Iſlands, and on the Eaſt, with a Cape of Land; ſo that none but a North wind can be
+<pb n="3" facs="tcp:51049:24"/>prejudicial to Ships in this Port: the Ground is ſtony, which forc'd the Captains to buoy up their Cables, the ſhips riding in ſix or ſeven Fathom Wa<g ref="char:EOLhyphen"/>ter.</p>
+            <p>The Town is about a mile from the Marine, ſituated upon the ſhelf of a Hill, and hath one good Caſtle for its defence; the Town is ruinate, and there were few People to be ſeen, at that time, it being the time of making white Silk, moſt of the People being in their Gardens.</p>
+            <p>
+               <hi>May</hi> Thirteen, after three days Treatment by the <hi>Conſul</hi> (for <hi>Engliſh, French</hi> and <hi>Dutch</hi>) with extraordinary Civility; about four of the clock in the after<g ref="char:EOLhyphen"/>noon, we ſet forward for Mount
+<pb n="4" facs="tcp:51049:25"/>
+               <hi>Lebanon,</hi> and two hours Riding from <hi>Trippoly,</hi> we pitched our Tent at the Village <hi>Cofferſinue;</hi> the Inhabitants are Chriſtians, and live in houſes made of Reeds, and Covered with Buſh<g ref="char:EOLhyphen"/>es; and the Rode to this Vil<g ref="char:EOLhyphen"/>lage, is very good and pleaſant, paſſing to it, through a Forreſt of Olive Trees; and in the Val<g ref="char:EOLhyphen"/>leys, are Gardens of Mulberries, with which they feed their Silk-Worms.</p>
+            <p>Friday <hi>May</hi> fourteenth, we de<g ref="char:EOLhyphen"/>parted from <hi>Cofferſinue,</hi> about four of the clock in the morning, paſſing in a good Rode, and through Plains ſowed with Wheat: about ſix of the Clock, we paſſed over ſeveral Moun<g ref="char:EOLhyphen"/>tains reſembling Marble, if not
+<pb n="5" facs="tcp:51049:25"/>really ſo; from which we had a very good Proſpect of the fruit<g ref="char:EOLhyphen"/>fulneſs of the Valleys: between theſe Mountains, upon the aſcent of an Hill, we came to a Foun<g ref="char:EOLhyphen"/>tain where we break-faſted; at ſeven of the clock we roſe from the Fountain, and having paſ<g ref="char:EOLhyphen"/>ſed a very dangerous ragged Mountain, about nine of the Clock we came to <hi>Eden,</hi> a ſmall Village, and extraordinary pleaſantly ſeated, being ſur<g ref="char:EOLhyphen"/>rounded with Mulberries, Wal<g ref="char:EOLhyphen"/>nuts, and other ſorts of Trees; Walnut eſpecially we found ve<g ref="char:EOLhyphen"/>ry common on this Mount: we went to the <hi>Biſhops</hi> Houſe, a moſt miſerable ruinated Cottage, where the <hi>Biſhop</hi> coming to bid us welcome, appeared more like a
+<pb n="6" facs="tcp:51049:26"/>Dunghil-raker then a <hi>Biſhop.</hi> We enquired whence this Village had its name, the <hi>Maronites</hi> (which generally inhabit the Mountains) ſay, this was the place where <hi>Adam</hi> commit<g ref="char:EOLhyphen"/>ted the ſin of Eating the For<g ref="char:EOLhyphen"/>bidden Fruit; but the <hi>Biſhop</hi> told us, it was in Heaven, where there were three Trees, <hi>Adam</hi> being forbidden to eat of one of them which wa the Fig-tree: but having eaten, he fell from Hea<g ref="char:EOLhyphen"/>van, and fell among the <hi>Cedars</hi> (which are ſome two hours ri<g ref="char:EOLhyphen"/>ding from the <hi>Biſhops</hi> houſe), and there he began to till the Ground. But the <hi>Biſhop</hi> being very Igno<g ref="char:EOLhyphen"/>rant of theſe things, we forbear to enquire farther. The <hi>Biſhops</hi> have great reſpect ſhewed them,
+<pb n="7" facs="tcp:51049:26"/>every one Kiſſing his Hand on their Knees bareheaded: in his Houſe he hath a ruinate Church, with an Altar in it; and a little beyond his houſe, is a little Chappel, neer the head of the Rivolet that feeds his houſe with water, where we found many men with <hi>Frank</hi> names, which had continued there from the Year 1611.</p>
+            <p>Mid-day coming, the <hi>Biſhop</hi> made what Preparation his houſe would afford for Dinner, killing two Kids, and a Goat, and giving us the beſt Wine the Mountain did afford, being a well reliſhed Red and White Wine.</p>
+            <p>Night coming, after Sup<g ref="char:EOLhyphen"/>per, we kiſs'd his Hand; and next
+<pb n="8" facs="tcp:51049:27"/>morning, we being now but twelve in Company, went to take our leave of him, and made him a preſent of Livers, beſides ſomething to the ſer<g ref="char:EOLhyphen"/>vants, as is uſual for Pilgrims that take this Voyage; two of our Company waiting our re<g ref="char:EOLhyphen"/>turn at <hi>Trippoly.</hi>
+            </p>
+            <p>Saturday <hi>May</hi> the fifteenth, about five a Clock in the mor<g ref="char:EOLhyphen"/>ning, we roſe from thence, and a<g ref="char:EOLhyphen"/>bout eight of the Clock we came to the <hi>Cedars;</hi> all that remain of them, being in a very ſmall compaſs: We ſpent ſome time in cutting ſticks, and ſetting our Names on the great Trees.</p>
+            <p>At this place there came to us the Captain of a Village, cal<g ref="char:EOLhyphen"/>led <hi>Upſhara,</hi> an hours riding from
+<pb n="9" facs="tcp:51049:27"/>the <hi>Caedars.</hi> In our way, as we returned; he envited us to Din<g ref="char:EOLhyphen"/>ner at his Village, which we ac<g ref="char:EOLhyphen"/>cepted of, and after dinner made him a Preſent; This man is a <hi>Maronite,</hi> and takes <hi>Caffar</hi> or Toll of the <hi>Turks,</hi> which paſs that way with their Sheep and Oxen; he hath a hundred Soul<g ref="char:EOLhyphen"/>diers under his Command, who are all Chriſtians.</p>
+            <p>About two a clock we moun<g ref="char:EOLhyphen"/>ted, and after three hours riding, we came to a mighty deep De<g ref="char:EOLhyphen"/>ſcent, winding in and out, which is the way to the Patriark of the <hi>Maronites</hi> houſe, called <hi>Caunibone;</hi> it is a very good Convent, and lies under the Rocks, they have a Bell in the Church as in <hi>Europe,</hi> and goe
+<pb n="10" facs="tcp:51049:28"/>to their Devotions Morning and Evening: After we had kiſſed the Patriarks hand, we deman<g ref="char:EOLhyphen"/>ded what was to be ſeen, and the Druggerman carried us to ſee <hi>St. Marene's</hi> Grot, of whom they recount this Story.</p>
+            <p>
+               <q>That a <hi>Venetian,</hi> in the time that the <hi>Franks</hi> had the Coun<g ref="char:EOLhyphen"/>trey, came with his wife and and one daughter to live there; and after ſome years, his Wife dying, he was reſolved to goe into the Covent and live a reli<g ref="char:EOLhyphen"/>gious life, and would therefore have his Daughter to leave him; but his perſwaſions could not prevail with her; but ra<g ref="char:EOLhyphen"/>ther than leave her Father, ſhe would put on mans Apparrel, and live a devoted life with
+<pb n="11" facs="tcp:51049:28"/>him alſo; which at laſt (though unwilling) he aſſented to (ſhe being young and handſom;) there they lived very ſtrictly for ſeveral years; afterward her Father dyed: And the lay Brothers and Fathers going out, as uſually, to Till the ground; She ſeldome went with them, the Chief of the Convent keeping her at home (being much taken with ſuch a handſome young man as he thought) whereupon they be<g ref="char:EOLhyphen"/>gan to grumble, that St. <hi>Mar<g ref="char:EOLhyphen"/>rene</hi> did not go with them; ſo that at laſt, to ſatisfy the <hi>Fratres,</hi> he was ſent out to work among them near the Village <hi>Turſa:</hi> preſently after, one of the young Virgins of that Vil<g ref="char:EOLhyphen"/>lage
+<pb n="12" facs="tcp:51049:29"/>proving with Child, ſhe came to the Convent, and laid it to the charge of St. <hi>Marrena;</hi> who was thereupon preſently excommunicated, and lived a Religious life in the Grot neer the Convent, for the ſpace of 7 years; and being then again ad<g ref="char:EOLhyphen"/>mitted into the Covent, &amp; ſtill continuing to live a very ſtrict Life, he at length dyed; and the Fathers coming according to their Cuſtome, to Anoint the Body, found that he was a Woman; whereupon they began to Croſs themſelves, and to beg Pardon for Ex<g ref="char:EOLhyphen"/>communicating her; and have built an Altar in the Grot, and call it by the Name of St. <hi>Mar<g ref="char:EOLhyphen"/>rena;</hi> as they have alſo in ſe<g ref="char:EOLhyphen"/>veral
+<pb n="13" facs="tcp:51049:29"/>Grots thereabouts, in remembrance of the Religious Relicks of thoſe that dwelt therein; and when they carry any body to ſee them, they preſently fall down to Pray<g ref="char:EOLhyphen"/>ers.</q>
+            </p>
+            <p>About a League from the Convent, are two <hi>French-men</hi> that live a Hermits life, have<g ref="char:EOLhyphen"/>ing Bread and Wine allowed them by the Patriark: Night comming on, we went to Sup<g ref="char:EOLhyphen"/>per with the Patriark, the Biſhop of <hi>Aleppo,</hi> and two o<g ref="char:EOLhyphen"/>ther Biſhops, they having pro<g ref="char:EOLhyphen"/>vided what the Place affor<g ref="char:EOLhyphen"/>ded; At Supper they brought out a great Glaſs, which held neer two Quarts, with which the Old Man ſoon made him<g ref="char:EOLhyphen"/>ſelf
+<pb n="14" facs="tcp:51049:30"/>merry, it being their Cuſ<g ref="char:EOLhyphen"/>tome to drink freely; He telling us, that that Glaſs had belon<g ref="char:EOLhyphen"/>ged to the Convent more than one hundred Years, and that the <hi>Turks</hi> coming once to Ran<g ref="char:EOLhyphen"/>ſack the Convent, ſeeing this Glaſs, told one of the <hi>Fratres,</hi> if he could drink off that full of pure Wine, he would ſave the Convent; which one of them doing, the <hi>Turks</hi> went away admiring what ſort of People they were.</p>
+            <p>
+               <hi>May</hi> ſixteen, We took our leave of the Patriark, and pre<g ref="char:EOLhyphen"/>ſented him with ſome Livers, as alſo to the poor <hi>Frasres,</hi> and other People that belonged to the Convent, and ſo took our Journey to <hi>Trippoly,</hi> having had
+<pb n="15" facs="tcp:51049:30"/>a fair review of thoſe Moun<g ref="char:EOLhyphen"/>taines, and the Countrey ad<g ref="char:EOLhyphen"/>jacent, which is over-ſpread with many fair Villages, and hath many fruitful Vallyes ſown with Corn, and great quantity of Mulberry Gardens; it being the general imploy<g ref="char:EOLhyphen"/>ment of the Inhabitants to make Silk.</p>
+            <p>We Return to <hi>Trippoly</hi> to the Conſuls Houſe that Night, where after two dayes repoſe, and having been extraordinary well Treated, we took our leave of the Conſul.</p>
+            <p>
+               <hi>May,</hi> eighteen, about mid<g ref="char:EOLhyphen"/>night, we ſet ſail for <hi>Joppa,</hi> with a good Wind; in the Morning we came in ſight of <hi>Cape-Blan<g ref="char:EOLhyphen"/>co,</hi> where the wind proving
+<pb n="16" facs="tcp:51049:31"/>contrary, we were forced to beat up and down for two days, before we could weather the Cape the wind coming good, we weatherd the Cape, and came in ſight of <hi>Cape-Carmel,</hi> which two Capes make the Bay of <hi>Aerica,</hi> on which there is a Convent of white Friers, and there they ſhewd us <hi>Eliſhas</hi> Tomb. And three or four hours Sail fur<g ref="char:EOLhyphen"/>ther, we came in ſight of <hi>Ceſarea,</hi> now Ruinate, and inhabited by a Company of Savage <hi>A<g ref="char:EOLhyphen"/>rabs.</hi>
+            </p>
+            <p>
+               <hi>May</hi> twenty three, we Arri<g ref="char:EOLhyphen"/>ved at <hi>Joppa,</hi> which hath no harbour to defend Ships from Storms, but hath very good ground to Anchor in, about ten Fathom Water: It is a poor
+<pb n="17" facs="tcp:51049:31"/>Town, and hath one Caſtle to defend thoſe ſhips that come in cloſe to the Shore; the cheif Trade thereof, is Pot-aſhes for Soap, and a few Cottons, and Cotton-Yarn, which the <hi>Franks</hi> bring from thence.</p>
+            <p>
+               <hi>May</hi> twenty four, We Arri<g ref="char:EOLhyphen"/>ved at <hi>Ramah,</hi> which is a plea<g ref="char:EOLhyphen"/>ſant Village; the great Trade of the Inhabitants is in Fil<g ref="char:EOLhyphen"/>lado's; the People are poor, and the livelyhood of the Wo<g ref="char:EOLhyphen"/>men is to Spin that Commodity: We were Treated there at the Convent, till a Meſſenger was diſpatched to the Convent at <hi>Jeruſalem,</hi> for our Admittance to paſs thither, becauſe of ſome extravagant Stories that flew abroad, of the Plague raging
+<pb n="18" facs="tcp:51049:32"/>in the place from whence we came: our meſſenger returned back that night.</p>
+            <p>
+               <hi>May</hi> the twenty fifth, in the morning, we mounted to take our Journey for <hi>Jeruſalem,</hi> and baited at St. <hi>Jeroms</hi> Church a<g ref="char:EOLhyphen"/>bout twelve of the Clock, to Eat what ſmall proviſions we had with us: and the heat of the Day being paſſed, we procee<g ref="char:EOLhyphen"/>ded on our Journey; and about four of the Clock in the after<g ref="char:EOLhyphen"/>noon we Arrived at <hi>Jeruſalem,</hi> at <hi>Joppa</hi> Gate; where we tar<g ref="char:EOLhyphen"/>ried till the Druggerman of the Convent went to the <hi>Caddy</hi> for Licence for us to enter the City; which having obtained, and delivering up our Swords, and what other Armes we had,
+<pb n="19" facs="tcp:51049:32"/>to be carried to the Convent; we entred the City on Foot, and were conducted by the Durggerman to the <hi>Latines</hi> Con<g ref="char:EOLhyphen"/>vent, with two or three Fa<g ref="char:EOLhyphen"/>thers Accompanying us; we ſound them at their Devotions, and afterwards we all went in<g ref="char:EOLhyphen"/>to the Father <hi>Guardians</hi> Cham<g ref="char:EOLhyphen"/>ber, who imbraced us, and bid us welcome; We were carried to our Lodgings, and the Fa<g ref="char:EOLhyphen"/>ther Procurator came to us, and paſſed a Complement on us, bringing two or three bottles of the beſt Wine, and deſiring us to call for what we wanted; this was our firſt Entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But I ſhould have given you an Account that our Drugger<g ref="char:EOLhyphen"/>man,
+<pb n="20" facs="tcp:51049:33"/>
+               <hi>Mallinis Salley</hi> by name, who conducted us from <hi>Joppa,</hi> through the Mountains up to <hi>Jeruſalem,</hi> was formerly a Rob<g ref="char:EOLhyphen"/>ber himſelf, and could there<g ref="char:EOLhyphen"/>fore the better carry us through the <hi>Arabs,</hi> who moleſt thoſe Mountaines and live all upon Purchaſe; he was a <hi>Greek</hi> by Nation and Religion.</p>
+            <p>Now to our further Enter<g ref="char:EOLhyphen"/>tainment at <hi>Jeruſalem;</hi> the next morning Father <hi>Tomaſo,</hi> a Lay<g ref="char:EOLhyphen"/>brother, one mighty ſerious, and Religious in their way, came to our Chamber with Milk, Wine and Fruit, (with a Bleſſing in his Mouth) the ſea<g ref="char:EOLhyphen"/>ſon being very hot: and a<g ref="char:EOLhyphen"/>bout twelve of the Clock we went to Dinner, two or three
+<pb n="21" facs="tcp:51049:33"/>Lay Brothers attending at the Hall door, with a Baſon and Ewer for us to waſh; and then entring the Hall, the Fathers ſtood all on one ſide near one another, ſaying Grace in La<g ref="char:EOLhyphen"/>tin, and then ſinging the Lords Prayer altogether; and after<g ref="char:EOLhyphen"/>ward bowing toward the Picture of our Saviour at Supper with his Apoſtles, which is placed over the <hi>Guardians</hi> Head, ador<g ref="char:EOLhyphen"/>ned with Silver Croſſes about it, &amp;c.</p>
+            <p>The <hi>Guardian</hi> hath his Table alone in the middle of the Room, and two long Tables ſtand of each ſide, one for the Pilgrims, and the other for the Fathers; after they had kiſs'd the ground, we all ſate down, and had eve<g ref="char:EOLhyphen"/>ry
+<pb n="22" facs="tcp:51049:34"/>one his alotment brought in a little diſh, of which we ne<g ref="char:EOLhyphen"/>ver wanted three or four Cour<g ref="char:EOLhyphen"/>ſes of ſeveral ſorts of Meat: our Wine, Water, and Fruit, was ſet ready for us; the Wine was about a Quart, the Water ſomething leſs, which was the allowance of two men, and had two Glaſſes belonging to it: a<g ref="char:EOLhyphen"/>bout the middle of Dinner, the <hi>Frater</hi> came, and changed our Water, that it might drink the freſher.</p>
+            <p>Dinner being ended, the Fa<g ref="char:EOLhyphen"/>ther — <hi>Guardian</hi> knocks, and the <hi>Fraters</hi> riſe and kneel with their Faces toward the Picture of our Saviour with his Diſciples at Supper, and mumbling ſome<g ref="char:EOLhyphen"/>thing to themſelves, they kiſs
+<pb n="23" facs="tcp:51049:34"/>the ground, and then begin to take away; one taking away the Diſhes, another the Knives, every one having his appoint<g ref="char:EOLhyphen"/>ment, and then give Thanks in the ſame manner as before Dinner; then waſhing at the door, they go into the Church to Prayer, for a quarter of an hour; this they do daily, riſing always early, and in the Night alſo, to go to Maſs.</p>
+            <p>At this time there were two or three Chriſtians come from <hi>Bethlehem,</hi> whoſe art is to make the Figure of our Saviours Se<g ref="char:EOLhyphen"/>pulcher, or what Holy Story you pleaſe, upon your Arm; they make it of a blew colour, and it is done by the continu<g ref="char:EOLhyphen"/>all pricking of your Arm with
+<pb n="24" facs="tcp:51049:35"/>Needles; they began preſently to go to work on ſome of us, and having preſented us the Patterns of abundance of Prints, every one took his Fan<g ref="char:EOLhyphen"/>cy.</p>
+            <p>The next day, <hi>May</hi> twenty ſeven, we all agreed to goe in<g ref="char:EOLhyphen"/>to the Temple, and about four a Clock in the afternoon we went: There are about ten or twelve Fathers that live there continually, and have their Church there: The door is ſea<g ref="char:EOLhyphen"/>led with the <hi>Caddys</hi> Seal, and when any man goes in, he pays fourteen Livers; we being en<g ref="char:EOLhyphen"/>tred the Temple, the Fathers came and Saluted us, and con<g ref="char:EOLhyphen"/>ducted us to their Lodgings; where after we had been about
+<pb n="25" facs="tcp:51049:35"/>an hour, they prepared to go in Proceſſion to all the holy places, preſenting us every one a Book of Holy Songs, for every place in <hi>Latin.</hi>
+            </p>
+            <p>And ſo we ſet out, the Fa<g ref="char:EOLhyphen"/>thers being dreſſed in white Surplices; and the <hi>Cheif</hi> a<g ref="char:EOLhyphen"/>mong them with Cloth of Sil<g ref="char:EOLhyphen"/>ver over his Surplice, with two more dreſſed in the like Garb to lead him: there was a great Silver Croſs carried before him, with the Picture of our Savi<g ref="char:EOLhyphen"/>our Crucified upon it, and two men going on each ſide of it, with Incenſe Pots, to perſume every Holy Place, that we came to. And ſo we went to theſe places following:</p>
+            <p n="1">1 To the Pillar to which our
+<pb n="26" facs="tcp:51049:36"/>Saviour was bound when he was ſcourged.</p>
+            <p n="2">2 To the Priſon, wherein our Saviour was put.</p>
+            <p n="2">3 To the place where the Soldi<g ref="char:EOLhyphen"/>ers divided our Saviours Garments.</p>
+            <p n="4">4 The place where St. <hi>Hel<g ref="char:EOLhyphen"/>lena</hi> found our Saviours Croſs.</p>
+            <p n="5">5 The Pillar to which our Sa<g ref="char:EOLhyphen"/>viour was bound when he was Crowned with Thorns.</p>
+            <p n="6">6 To <hi>Mount Galvary,</hi> where he was Crucified.</p>
+            <p n="7">7 The place where our Savi<g ref="char:EOLhyphen"/>our was Nayled to the Croſs.</p>
+            <p n="8">8 To the place where he was Anointed.</p>
+            <p n="9">9 To the Sepulcher of Chriſt.</p>
+            <p n="10">10 To the place where our Saviour appeared to <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen</hi> in the ſhape of a Gardiner.</p>
+            <p n="11">
+               <pb n="27" facs="tcp:51049:36"/>
+11 To the Chappel of the <hi>Virgin Mary,</hi> where our Savi<g ref="char:EOLhyphen"/>our firſt appeared to her after his Reſurrection.</p>
+            <p>I might give you a particu<g ref="char:EOLhyphen"/>ler deſcription of the Adorn<g ref="char:EOLhyphen"/>ment of theſe Places; but to be ſhort, every one have Lamps burning at them; ſome are pa<g ref="char:EOLhyphen"/>ved with Marble, others are hung with Pictures; the place where our Saviour was laid down to be nailed to the Croſs, is paved with Marble; the place where he was Crucified, is pa<g ref="char:EOLhyphen"/>ved with Marble alſo; but in the exact place where the Croſs ſtood, the Marble is covered over with Silver, with Silver Lamps, and wax Candles con<g ref="char:EOLhyphen"/>tinually burning; and our Sa<g ref="char:EOLhyphen"/>viour
+<pb n="28" facs="tcp:51049:37"/>Crucified ſtanding on it: the Sepulcher alſo is covered with Mar<g ref="char:EOLhyphen"/>ble, with Silver Lamps continually burning on it; ſo hath the Anointing ſtone: you muſt go into the ſepulcher barefoot, as alſo on <hi>Mount Calvary.</hi>
+            </p>
+            <p>Here are all ſorts of Chriſtians have their Churches: The <hi>Greeks</hi> have the beſt, the <hi>Latins,</hi> the the <hi>Armenians,</hi> the <hi>Copty's,</hi> and the <hi>Syrians,</hi> have each of them Churches here.</p>
+            <p>The <hi>Greeks</hi> and <hi>Latines</hi> are the two powerful Religions in the Temple, and with great Sums of money, and the cre<g ref="char:EOLhyphen"/>dit they have at <hi>Stambul</hi> or <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> they continually buy theſe Holy Places out of one anothers Hands; the other Parties are Poor, and are there<g ref="char:EOLhyphen"/>fore ſqueez'd into a ſmall part
+<pb n="29" facs="tcp:51049:37"/>of the Temple; The <hi>Latines</hi> that offered ten thouſand Li<g ref="char:EOLhyphen"/>vers, for a peice of the Croſs, which the <hi>Greeks</hi> bought out of their hands.</p>
+            <p>Theſe Religious People bear little reſpect one to another, ſpeaking very baſely each of other.</p>
+            <p>After our Proceſſion, we went to veiw all the places and Chur<g ref="char:EOLhyphen"/>ches again; the <hi>Greeks</hi> have a place in the middle of their Church, which they ſay, is the middle of the World: they have another place by the Pri<g ref="char:EOLhyphen"/>ſon of Chriſt, with two holes to put the Feet in: there is al<g ref="char:EOLhyphen"/>ſo a narrow Paſſage between two Pillars, which is in imita<g ref="char:EOLhyphen"/>tion of the ſtraightneſs of the Path to Heaven, which the
+<pb n="30" facs="tcp:51049:38"/>
+               <hi>Greeks</hi> Creep through.</p>
+            <p>In the Church of the <hi>Syri<g ref="char:EOLhyphen"/>ans,</hi> is the intended Sepulcher of <hi>Joſeph of Arimathea,</hi> and <hi>Ni<g ref="char:EOLhyphen"/>codemus:</hi> and near the Anoin<g ref="char:EOLhyphen"/>ting Stone, is a Tomb, where <hi>Godfrey,</hi> and <hi>Baldwin,</hi> Kings of <hi>Jeruſalem,</hi> are Buried. And in the ſame place is the Rent of the Rock, which begins above, near the place where our Savi<g ref="char:EOLhyphen"/>our was Crucified; and in that Rent, they ſay <hi>Adams</hi> Head was found, when our Saviour gave up the Ghoſt. Thus ha<g ref="char:EOLhyphen"/>ving ſeen the Temple, we re<g ref="char:EOLhyphen"/>turn'd to the Convent.</p>
+            <p>
+               <hi>May</hi> the twenty eight, we went out of the City at <hi>Da<g ref="char:EOLhyphen"/>maſcus</hi> Gate, and turning on the right Hand, we came to one of the Fiſh-ponds, belonging to the
+<pb n="31" facs="tcp:51049:38"/>old City and a quarter of a Mile further, You come to the Grot where <hi>Jeremiah</hi> Lived, when he Wrote his Lamentations; on the left Hand in the en<g ref="char:EOLhyphen"/>trance, is a Ledg in the Rock, about a Story High, where they ſay <hi>Jeremiah</hi> Slept; and below over againſt the Door, is a hole intended for his Sepulcher; and paſſing through a Ruinate Door, you come into the Yard, where his Well is, being a very good Spring of ſweet Water; there you pay one Liver; afterwards paſſing along the ſide of a Mountain, that lies level with the City, a little beyond <hi>Je<g ref="char:EOLhyphen"/>remiahs</hi> Tomb, we came to the Sepulcher of the Kings; the entrance into the firſt Room, was ſo ſmall and low, that we
+<pb n="32" facs="tcp:51049:39"/>were forced to creep in, in which there were ſeven Sepul<g ref="char:EOLhyphen"/>chers cut out of the Rock: in the ſecond Room, there were eight Sepulchers more; and in the third Room twenty ſix more; and many more in ſeveral o<g ref="char:EOLhyphen"/>ther Rooms: One of the Rooms hath a Dore of Stone, which is Cut out of the Rock, and ſhuts and opens as a Door with Hinges; this Door be<g ref="char:EOLhyphen"/>longs to the Room, wherein <hi>Jehoſaphat</hi> was Buried, his Cof<g ref="char:EOLhyphen"/>fin is of Stone with a Cover to it, and is very neatly Wrote on the ſides with Flowers, as ſe<g ref="char:EOLhyphen"/>veral of them are alſo in the firſt Room, but they know not what Kings they are; there is al<g ref="char:EOLhyphen"/>ſo one other Chamber into which we crept; ſo that there
+<pb n="33" facs="tcp:51049:39"/>are in all, forty two Burying-Places under ground, to which there is but one door to enter, all adorned with Admirable Workmanſhip; which I being unskilled in, am unfit to ex<g ref="char:EOLhyphen"/>preſs in proper Terms: and ſo we return to the Convent, en<g ref="char:EOLhyphen"/>tering the City at the ſame Gate.</p>
+            <p>
+               <hi>May</hi> the Twenty-ninth, we repoſed, ſome of our Compa<g ref="char:EOLhyphen"/>ny being a Marking.</p>
+            <p>
+               <hi>May</hi> Thirty, we took Horſe to go for <hi>Bethlehem,</hi> and went out at the Weſt-Gate called <hi>Joppa</hi>-Gate, and turning on the left hand, and taking the lower Path, we paſſed along the Road that the <hi>Virgin Ma<g ref="char:EOLhyphen"/>ry</hi> brought our Saviour, when She came to offer him at the
+<pb n="34" facs="tcp:51049:40"/>Temple; and half a mile from the City is the place where the Tree <hi>Tirabintha</hi> grew, which the <hi>Virgin Mary</hi> ſat under to give him Suck; but the Tree being Cut down, the place is incompaſſed with a Wall.</p>
+            <p>On the left hand you ſee <hi>Davids</hi> Houſe, where he was when he ſpied <hi>Bathſheba</hi> Waſh<g ref="char:EOLhyphen"/>ing her ſelf; on the right Hand a little out of the Road, is old <hi>Simeons</hi> Houſe and <hi>Elias</hi> Houſe; and a quarter of a Mile fur<g ref="char:EOLhyphen"/>ther you come to a Well, where the Wiſe Men firſt ſaw the Star; a little further is the ground where the Reapers were at work, when <hi>Habbakuk</hi> comming to bring them Meat, the Angel took him up by the hair of the Head, and carried
+<pb n="35" facs="tcp:51049:40"/>into <hi>Babylon</hi> to <hi>Daniel</hi> in the Lions Den: afterward we ſaw <hi>Jacobs</hi> Houſe; and a hill like a Sugar Loaf: where the <hi>Franks</hi> remained forty Years, after they were driven out of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem;</hi> next is a Monaſtery of Monks of the order of St. <hi>Tavola Paula Romana,</hi> who when they dye, are Buryed at the Convent in <hi>Bethlehem.</hi>
+            </p>
+            <p>A Mile further is the place where the Angels appeared to the Shep<g ref="char:EOLhyphen"/>pards, and ſayd, <hi>Gloria in ex<g ref="char:EOLhyphen"/>celſis,</hi> &amp;c. when our Saviour was Born, where there hath been a Convent; but now there only remaines an Arched Vault, where we paid Money to the <hi>Arabs;</hi> who when they eſpy a<g ref="char:EOLhyphen"/>ny <hi>Franks</hi> going thither, Ride poſt before to take Poſſeſſion
+<pb n="36" facs="tcp:51049:41"/>of the place, and get ſome<g ref="char:EOLhyphen"/>thing from them; A quarter of a Mile from hence, in the way to <hi>Solomons</hi> Ciſterns, is the Village of the Shep<g ref="char:EOLhyphen"/>hards, on the backpart where<g ref="char:EOLhyphen"/>of is a Well, of which they ſay, the Virgin <hi>Mary</hi> defired to Drink; but the Inhabitants denying to draw her any Wa<g ref="char:EOLhyphen"/>ter, it preſently Overflowed for her to Drink: a little way from this Village, is <hi>Joſephs</hi> Houſe; and a little after, we came to <hi>Solomons</hi> Garden ly<g ref="char:EOLhyphen"/>ing ſhelving: At the bottom of them is the Road from <hi>Gran Cairo,</hi> and round the Top paſſes the Aqueduct, which feeds <hi>Jeruſalem</hi> with Water; (from thence we ſaw <hi>Tekoa</hi> ſtanding on a high Hill) the wa<g ref="char:EOLhyphen"/>ter
+<pb n="37" facs="tcp:51049:41"/>comes from the Fountains which feed <hi>Solomons</hi> Ciſterns; paſſing a Mile along by the A<g ref="char:EOLhyphen"/>queduct, we came to <hi>Solomons</hi> Ciſterns, which are Three; the firſt had no Water in it, and might be about two hundred and fifty Yards long, and ſixty Yards broad, and of a great depth; the ſecond, it had lit<g ref="char:EOLhyphen"/>tle Water, and was ſomething leſs in Compaſs; the third was full of Water and as big as the firſt: they run one into another, and are fed by the ſpring that feeds the City.</p>
+            <p>The Fathers ſay, that they were made to Swim in, they being built with ſteps for a Man to goe down, but they ſeem rather to be intended for a reſerve of Water for the City
+<pb n="38" facs="tcp:51049:42"/>or the Gardens, they having paſſage to both; neer the Gar<g ref="char:EOLhyphen"/>dens, there is an ill-contrived Caſtle, where a few Villains inhabit, to whom we paid one Liver <hi>per</hi> Man for leave to goe into the Grot; where the Springs are that feed the City, and the Ciſterns; the Grot is large, and hath three Springs in it, and a large paſſage cut through the Rock, toward the Ciſterns, paſſable by a Man, but we went not to the end of it.</p>
+            <p>We mounted our Horſes to pro<g ref="char:EOLhyphen"/>ceed on our Journy, leaving the Caſtle on the Right Hand, and at a diſtance we ſaw St. <hi>Georges</hi> Church, where the Fathers ſay, the Chaines remain wherewith St. <hi>George</hi> was bound, which
+<pb n="39" facs="tcp:51049:42"/>will preſently cure a Mad-man if he bound therewith.</p>
+            <p>After an hour and a halfes Riding, we came neer to <hi>Beth<g ref="char:EOLhyphen"/>lehem,</hi> where paſſing through a narrow Lane, the Guard con<g ref="char:EOLhyphen"/>ſiſting of four or five Muſque<g ref="char:EOLhyphen"/>tiers, received five Livers of e<g ref="char:EOLhyphen"/>very one of us, and our Drug<g ref="char:EOLhyphen"/>german that went with us, re<g ref="char:EOLhyphen"/>ceived three: and arriving at the Convent, we payd one for our entrance; and after our being welcomed by the Fa<g ref="char:EOLhyphen"/>thers, we took our repoſe till five of the Clock in the Evening; and then we prepared to goe in Proceſſion to the Holy Pla<g ref="char:EOLhyphen"/>ces in the ſame manner as we did at the Temple in <hi>Jeruſa<g ref="char:EOLhyphen"/>lem;</hi> the Places we Viſited were theſe:</p>
+            <p n="1">
+               <pb n="40" facs="tcp:51049:43"/>
+1 The Place where our Sa<g ref="char:EOLhyphen"/>viour was Born.</p>
+            <p n="2">2 The Tomb of St. <hi>Joſeph</hi> to whom the Virgin <hi>Mary</hi> was eſpouſed.</p>
+            <p n="2">3 St. <hi>Innocents</hi> Tomb.</p>
+            <p n="4">4 The place where St. <hi>Je<g ref="char:EOLhyphen"/>rom</hi> lived, when he tranſlated the Bible into <hi>Latin.</hi>
+            </p>
+            <p n="5">5 St. <hi>Jeroms</hi> Praying place.</p>
+            <p n="6">6 St <hi>Jeroms</hi> Tomb.</p>
+            <p n="7">7 St <hi>Pauls</hi> Tomb.</p>
+            <p n="8">8 St. <hi>Euſtachias</hi> her Dangh<g ref="char:EOLhyphen"/>ter.</p>
+            <p n="9">9 The Sepulcher of St. <hi>Eu<g ref="char:EOLhyphen"/>ſebius,</hi> Abbot of <hi>Bethlehem.</hi>
+            </p>
+            <p n="10">10 We return to the Chap<g ref="char:EOLhyphen"/>pel of St <hi>Catherena,</hi> which they ſay was built by St. <hi>Panla.</hi>
+            </p>
+            <p>Next is the great Church without the Convent, which hath forty eight Pillars of Mar<g ref="char:EOLhyphen"/>ble
+<pb n="41" facs="tcp:51049:43"/>about three Yards long, all in one Peice.</p>
+            <p>At Evening we went to viſit the place of our Saviours Birth, which formerly belonged to the <hi>Latins,</hi> till the <hi>Greeks</hi> bought it out of their Hands; ſo that now the <hi>Latins,</hi> when they goe their Proceſſion, Pray at that Door by which they formerly en<g ref="char:EOLhyphen"/>tred.</p>
+            <p>The <hi>Precipior</hi> hath two Doors, one exactly over againſt the o<g ref="char:EOLhyphen"/>ther, which are well Lined with Carved Iron, and ſtrengthed with Iron Spikes: We went in Bare-foot, on the Right hand in the entrance, is the place they ſay where our Saviour was Born, which is Lined with Marble; and in the midle of the Room there is a little place covered
+<pb n="42" facs="tcp:51049:44"/>with Silver, by which they ſet a Diſh to receive your Charity: On the left Hand is the Manger where the Virgin <hi>Mary</hi> laid our Saviour; which is Lined with Marble; and at the end of the Manger on the Right Hand, is the Picture of St. <hi>Jerom</hi> natu<g ref="char:EOLhyphen"/>rally in the Marble, which the Fathers eſteem as a Miracle.</p>
+            <p>Over againſt this Manger, is the place where the three Wiſe Men ſtood, when they came to Worſhip our Saviour: and at the further end of this place in a corner, is a hole made up up with Marble, wherein they ſay, the Virgin <hi>Mary</hi> put the Water, when ſhe had waſhed her hands: Over which a Lamp Burns continually: and there are alſo a great many Lamps
+<pb n="43" facs="tcp:51049:44"/>burning in the other Places. Over this <hi>Precipio,</hi> in the great Church, is the Altar of Circum<g ref="char:EOLhyphen"/>ciſion, where our Saviour was Circumciſed.</p>
+            <p>We having ſeen what was Rare at <hi>Bethlem, May</hi> thirty One, early in the Morning, we Roſe to proceed in our Journey, in which we ſaw theſe Places following.</p>
+            <p n="1">1 The Grot where the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> hid her ſelf, when ſhe was Warned to Fly into <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> &amp; her Milk running out of her Breſts there, made the Earth turn White; which Earth the Catholicks do very much e<g ref="char:EOLhyphen"/>ſteem.</p>
+            <p n="2">2 <hi>Davids</hi> Ciſterns.</p>
+            <p n="2">3 The Grot wherein the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary</hi> and <hi>Joſeph</hi> lived, be<g ref="char:EOLhyphen"/>fore
+<pb n="44" facs="tcp:51049:45"/>they could get a Houſe.</p>
+            <p n="4">4 The Tomb of <hi>Rachel, Ja<g ref="char:EOLhyphen"/>cobs</hi> Wife, which the <hi>Turks</hi> do alſo much eſteem.</p>
+            <p n="5">5 The Feild of <hi>Sennacharib,</hi> where the Angel of the Lord flew in one Night, One hundred eighty 5000. of the <hi>Syrians;</hi> in this place is a Village, which is called <hi>Botechelle,</hi> where the Fa<g ref="char:EOLhyphen"/>thers affirm, no <hi>Turk</hi> can live.</p>
+            <p n="6">6 The place where the Pillars of the Convent of <hi>Ramath</hi> were built.</p>
+            <p n="7">7 The Vinyard from whence the Spyes of the Land of <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> took the Cluſter of Grapes, to ſhow the fruitfulneſs of the Land; there is alſo the Fountain, where <hi>Philip</hi> Baptized the Queen of <hi>Sheba's</hi> Eunuch.</p>
+            <p n="9">9 The Deſarts of <hi>John Bap<g ref="char:EOLhyphen"/>tiſt;</hi>
+               <pb n="45" facs="tcp:51049:45"/>and after an hours Riding, we came to <hi>John Baptiſts</hi> Foun<g ref="char:EOLhyphen"/>tain, where was his Chamber; and a Rock, wherein there was a place cut out like a bench for his Bed; to break off any bit of this Rock, is Worthy excommu<g ref="char:EOLhyphen"/>nication.</p>
+            <p n="10">10 <hi>Zacharias</hi> Houſe, where the Virgin <hi>Mary</hi> came to ſalute her Couzen <hi>Elizabeth;</hi> for the Angel that told her ſhe ſhould conceive, told her alſo, that her Couzen was with Child; and upon her Salu<g ref="char:EOLhyphen"/>tation, the Child leaped in the Womb: Near this Houſe is a Fountain with two Ciſterns which is called <hi>Elizabeths</hi> Fountain.</p>
+            <p n="11">11 There is a Stone where <hi>John Baptiſt</hi> Preached, which the Fathers ſay, the <hi>Turks</hi> have en<g ref="char:EOLhyphen"/>deavoured to break in peices but could not.</p>
+            <p n="12">
+               <pb n="46" facs="tcp:51049:46"/>
+12 The place where <hi>John Baptiſt</hi> was Born, now a Stable; but formerly a Church, where the Fathers upon <hi>John Baptiſts</hi> day carry their Organs thither, and Adorn the Place for their Prayers.</p>
+            <p n="13">13 The Tombs of the <hi>Mac<g ref="char:EOLhyphen"/>cabees,</hi> which we ſaw at a di<g ref="char:EOLhyphen"/>ſtance, and being ruinated, ap<g ref="char:EOLhyphen"/>pear as ſo many Arches.</p>
+            <p n="14">14 We paſſed by a Village, where the Men are all <hi>Turks,</hi> and the Women <hi>Chriſtians;</hi> for the People being poor, the <hi>Turks</hi> were very ſevere with them for their <hi>Harach;</hi> who not being able to pay all at once, turned <hi>Turks,</hi> &amp;c.</p>
+            <p n="15">15 We came to the Mountain <hi>Crupil,</hi> where part of the Wood whereof our Saviours Croſs was
+<pb n="47" facs="tcp:51049:46"/>made, was cut down, and over the place where they ſay the Tree ſtood, from which it was cut, there is a ſtately Church, which is in the Poſſeſſion of the <hi>Greeks;</hi> the juſt place where the Tree grew is inlayd with Silver, by which they ſet a Diſh for your Charity: the Flore of this Church is well Wrought with <hi>Moſaick</hi> Work, and painted with Scripture Stories; and in<g ref="char:EOLhyphen"/>ſtead of a Bell, they knock up<g ref="char:EOLhyphen"/>on a board, that hangs up, which ſounds ſomewhat like a Bell.</p>
+            <p>And now we goe forward to the Convent at <hi>Jeruſalem,</hi> paſſing by Mount <hi>Grhon,</hi> where <hi>Solomon</hi> was Anointed King; and about night we came to our Lodgings, having made two
+<pb n="48" facs="tcp:51049:47"/>days journey to ſee the Holy Places, and Traverſe the Moun<g ref="char:EOLhyphen"/>tains of <hi>Judea;</hi> we ſlept very well that night, but ſtill we have more Pilgrimages.</p>
+            <p>
+               <hi>June</hi> 1. We lay ſtill to recover our ſelves of our <hi>Bethlem</hi> Jour<g ref="char:EOLhyphen"/>ney, but Father <hi>Tomaſa</hi> out of his Zeal, is very importunate with us to be walking to ſee o<g ref="char:EOLhyphen"/>ther places, which is very Me<g ref="char:EOLhyphen"/>ritorious in the <hi>Roman</hi> Church; and had we been of their Reli<g ref="char:EOLhyphen"/>gion, it had been impoſſible to have miſt Heaven; for we had received indulgences for all our Lives; which fancy I wiſh doth not deceive too many.</p>
+            <p>
+               <hi>June</hi> the ſecond, We began to ſearch for the Holy places, which are theſe following.</p>
+            <p n="1">1 The Immolation of <hi>Iſaac</hi>
+               <pb n="49" facs="tcp:51049:47"/>neer the Temple, called Mount <hi>Morea,</hi> which place is inlay'd with Silver, and a diſh ſet by for your Offering.</p>
+            <p>Secondly, <hi>Peters</hi> Priſon, ſtill made a Priſon by the <hi>Turks:</hi> at the further end of which, is a hole in the Wall, where they ſay the Chain was faſtened, with which St. <hi>Peter</hi> was Chai<g ref="char:EOLhyphen"/>ned; litle remembring, how often <hi>Jeruſalem</hi> hath been deſtroyed, and the Stones of that Old Wall, are now probably as far under Ground, as theſe are a<g ref="char:EOLhyphen"/>bove.</p>
+            <p>Thirdly, The Monaſtery of the Knights of <hi>Malta;</hi> a very fair building, one Room where<g ref="char:EOLhyphen"/>of hath ſeveral Partitions for Beds, with a hole in the mid<g ref="char:EOLhyphen"/>dle, that if any of them are
+<pb n="50" facs="tcp:51049:48"/>Sick or Fluxitive, they are layd there; to which the Water, (being Bad) and the Air un<g ref="char:EOLhyphen"/>wholeſome, doth very much in<g ref="char:EOLhyphen"/>cline them.</p>
+            <p>Fourthly, <hi>Solomons</hi> Temple; which, if any <hi>Chriſtian</hi> goe in<g ref="char:EOLhyphen"/>to, or but up the ſtairs, he muſt Turn <hi>Turk,</hi> or be burnt: The Rarity of which I ſhall give you an Account of, when I come to a Proſpect.</p>
+            <p>Fifthly, St. <hi>Hellena's</hi> Hoſpi<g ref="char:EOLhyphen"/>tal, where there are ſeven great Caldrons, in which ſhe uſed to have Proviſions dreſſed for the Poor, where we pay one Li<g ref="char:EOLhyphen"/>ver for entrance.</p>
+            <p>Sixthly, the <hi>Judgement</hi> Gate, at which our Saviour was brought in: and ſome diſtance from the Gate, is the place
+<pb n="51" facs="tcp:51049:48"/>where he was Condemned.</p>
+            <p>Seventhly, The <hi>Dolorous Way,</hi> which is the way that Chriſt went, when he went to be Crucified; and in the way is the Houſe of St. <hi>Veronica,</hi> who gave our Saviour a Napkin to wipe his Face, as he paſſed by: there is alſo <hi>Lazarus</hi>'s Houſe, and the Houſe of the <hi>Rich Glutton;</hi> and the place where our Saviour Fainted as they ſay, and <hi>Simon</hi> took up the Croſs; and neer that, is the Church, where the Virgin <hi>Mary</hi> ſtood to ſee him paſs by, and Swounding with Grief; now called the Virgin <hi>Maries</hi> Church.</p>
+            <p>Eightly, <hi>Herods</hi> Palace, now ruinated, and is now the <hi>Baſ<g ref="char:EOLhyphen"/>ſha's Seraglio;</hi> in one Room
+<pb n="52" facs="tcp:51049:49"/>is the place where they Clothed our Saviour with Purple.</p>
+            <p>Ninethly, <hi>Pilates</hi> Houſe, where they ſhew the place, where our Saviour was Crowned with Thorns, and the Pillar to which he was bound, which was brought from thence, and put into the Temple: next, we enter the Hall, where <hi>Pi<g ref="char:EOLhyphen"/>late</hi> Waſhed his Hands, &amp; declared himſelf Innocent of our Saviours Blood: out of which place we had a fair Proſpect of <hi>Solomons</hi> Temple; which is built within the middle of a ſpacious Yard very well Paved; there are ſeveral Arches, good Walks, and Buildings about it: the Temple is Wrought with <hi>Moſaick</hi> Work, and by the <hi>Turks</hi> re<g ref="char:EOLhyphen"/>port, is very Rich within, it being one of their <hi>Moſques;</hi> and though they have a half
+<pb n="53" facs="tcp:51049:49"/>Moon upon all their Temples or <hi>Moſques,</hi> yet this only hath a Croſs through the middle: The Fathers reporting it would not ſtand till the Croſs was made.</p>
+            <p>Tenthly, The place where Chriſt was Scourged, which is now a Shop for Linnen Cloth; but the Pillar to which our Saviour was bound, is brought from thence, and put into the Temple.</p>
+            <p>Eleventhly, The Houſe of <hi>Annas,</hi> where our Saviour be<g ref="char:EOLhyphen"/>ing carried along with great Violence down a ſteep place, to prevent falling, he layd hold of the corner of a Wall, where there is a place, in one of the Stones, fit for a Mans Hand, which the Fathers ac<g ref="char:EOLhyphen"/>count
+<pb n="54" facs="tcp:51049:50"/>a great Miracle.</p>
+            <p>Twelfthly, <hi>Simon</hi> the Phari<g ref="char:EOLhyphen"/>ſees Houſe, where there is a Stone, with the print of a Foot, which they ſay our Sa<g ref="char:EOLhyphen"/>viour made, when he ſtood to pardon <hi>Mary Magdalen</hi> her Sins: The Fathers ſay, the <hi>Turks</hi> have endeavoured ſeveral times to remove this Stone, but ſtill it comes into the ſame place again.</p>
+            <p>Thirteenth, The Houſe of <hi>Joakim,</hi> and <hi>Anna:</hi> a fair high Building; and down in an un<g ref="char:EOLhyphen"/>der Room, cut out of the Rock, is the place where they ſay, The Virgin <hi>Mary</hi> was Born.</p>
+            <p>Fourteenth, The Pool of <hi>Be<g ref="char:EOLhyphen"/>theſda,</hi> where the Sick lay to be healed; the Angel com<g ref="char:EOLhyphen"/>ming
+<pb n="55" facs="tcp:51049:50"/>Yearly to Trouble the Water, and he that entred in firſt, was healed; but it is now dry, and half filled with Earth.</p>
+            <p>Fifteenth, St. <hi>Stephens</hi> Gate, and a little out of the City, is the place where <hi>Stephen</hi> was Stoned: and the Fathers would have you to fancy, that there is the print of his Hands, Face, and Knees, when he fell down.</p>
+            <p>Sixteenth, The Vally of <hi>Je<g ref="char:EOLhyphen"/>hoſophat,</hi> which is at the bot<g ref="char:EOLhyphen"/>tom of the Hill, between the the Mountain on which <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> ſtands, and <hi>Mount Oli<g ref="char:EOLhyphen"/>vet.</hi>
+            </p>
+            <p>Seventeenth, The Place where the Virgin <hi>Mary</hi> is Bu<g ref="char:EOLhyphen"/>ried; where going down a great many ſtone ſteps, you come
+<pb n="56" facs="tcp:51049:51"/>into a large Vault, where all the <hi>Chriſtians</hi> have their Altars a<g ref="char:EOLhyphen"/>part, all being of ſeveral Opi<g ref="char:EOLhyphen"/>nions, and the <hi>Turks,</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> do both burn Lamps, over her Grave; here we pay One Liver for entrance; and Forty eight Stone Steps up<g ref="char:EOLhyphen"/>ward, is <hi>Joſephs</hi> Tomb; and over againſt that, are the Tombs of <hi>Joakim</hi> and <hi>An<g ref="char:EOLhyphen"/>na.</hi>
+            </p>
+            <p>Eighteenth, The place where Chriſt ſweat Bloud, and the Angel appeared to Comfort him, is neer the bottom of <hi>Mount Olivet.</hi>
+            </p>
+            <p>Nineteenth, The Place where our Saviour Prayed, that <hi>This Cup might paſs from him;</hi> and neer that place, is the Rock on which his Diſciples ſate,
+<pb n="57" facs="tcp:51049:51"/>when he went to Prayer, be<g ref="char:EOLhyphen"/>tween which two places he was taken, it is now bordering on the Garden of <hi>Gethſemena,</hi> but might formerly have been part of the Garden, and is on the Aſcent of the <hi>Mount of Olivet;</hi> where the Multitude going to Carry our Saviour away, <hi>Peter</hi> ſmote off <hi>Malcus</hi> his Ear, in in the way to the City.</p>
+            <p>Twentyeth, The Place where they ſay the Virgin <hi>Mary</hi> Pray<g ref="char:EOLhyphen"/>ed for St. <hi>Stephen,</hi> while he was Stoning.</p>
+            <p>Twenty firſt, The place where Chriſt Wept over <hi>Jeruſalem;</hi> it is almoſt at the Top of <hi>Mount Olivet.</hi>
+            </p>
+            <p>Twenty ſecond, The Place our Saviour Aſcended into Hea<g ref="char:EOLhyphen"/>ven, having as they ſay, left
+<pb n="58" facs="tcp:51049:52"/>the Print of his Foot on a Stone: it hath now a Chap<g ref="char:EOLhyphen"/>pel built over it, with four<g ref="char:EOLhyphen"/>teen Marble Pillars round it, it is at the top of Mount <hi>Olivet;</hi> and a little way off, is the Place where the Men of <hi>Gallilee</hi> ſtood, when the Angel asked them, <hi>Why ſtand ye Gazing up?</hi>
+            </p>
+            <p>Twenty third, The Place is ſhewed us, where the Angel told the Virgin, ſhe ſhould be Rayſed in three Days.</p>
+            <p>Twenty fourth, <hi>Pelagius</hi> his Grot; from whence we ſaw <hi>Bethpage,</hi> where the Aſſes Colt was tied.</p>
+            <p>Twenty fifth, The Tree un<g ref="char:EOLhyphen"/>der which our Saviour ſtood, when he Preached the Judg<g ref="char:EOLhyphen"/>ment Sermon.</p>
+            <p>
+               <pb n="59" facs="tcp:51049:52"/>
+Twenty ſixth, The place where he made the Lords Prayer.</p>
+            <p>Twenty ſeventh, The Place where the Apoſtles made the Creed; being a Grot of twelve Arches.</p>
+            <p>Twenty Eight, The Sepul<g ref="char:EOLhyphen"/>chers of the Prophets, being Forty ſeven in Number, cut out of the Rock; and entring in at a Door, we came into a large Grot, where there were ſeveral places to cut out, fit to contain a Coffin: here we paid one Liver.</p>
+            <p>Twenty Nineth, The Tree where <hi>Judas</hi> Hanged him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>The Thirtyeth, The Sepul<g ref="char:EOLhyphen"/>cher which <hi>Jehoſophat</hi> intended for himſelf; but being a King, he was buried in the Sepulcher, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Kings.</p>
+            <p>
+               <pb n="60" facs="tcp:51049:53"/>
+Thirty One, <hi>Abſoloms</hi> Pillar or Sepulcher, which is cut out of the Rock, and about the big<g ref="char:EOLhyphen"/>neſs of a ſmall Chamber, with Pillars cut out round about; ſo that it ſtands like a Room built for ſome ſingle Perſon: it is of a good Height, and hath ſome Carving about it.</p>
+            <p>Thirty Two, They ſay hereby is the Print of Chriſts Feet; for when he was Car<g ref="char:EOLhyphen"/>ried to <hi>Jeruſalem,</hi> he ſtopped at the Brook <hi>Cedron,</hi> and deſired to Drink: This Brook is now but a ſmall Channel, and had no Water in it, when we were there; but in the Winter time, the Water comes down from the Hills, and makes a ſmall Current.</p>
+            <p>Thirty Three, Next is the
+<pb n="61" facs="tcp:51049:53"/>Place where Saint <hi>James</hi> hid himſelf three Days, and three Nights; it is a place cut out of the Rock, which muſt needs have been made for a dwelling place; neer this is the Sepulcher of <hi>Zacharias</hi> the Son of <hi>Barachias,</hi> cut out of the Rock.</p>
+            <p>Thirty four, On the ſide of the Hill, on which <hi>Solomon</hi> Worſhipped <hi>Molock,</hi> are Cham<g ref="char:EOLhyphen"/>bers cut out of the Rock, which they ſay was the place, where<g ref="char:EOLhyphen"/>in the Three Hundred Wives, and One Thouſand Concu<g ref="char:EOLhyphen"/>bines of <hi>Solomon</hi> were kept.</p>
+            <p>Thirty Five, The Fountain of the Virgin <hi>Mary,</hi> which you goe down to by Stone Steps; the Water whereof is ſo Sweet, that were a Man blindfolded,
+<pb n="62" facs="tcp:51049:54"/>he could not think it to be a<g ref="char:EOLhyphen"/>ny thing but Milk and Wa<g ref="char:EOLhyphen"/>ter.</p>
+            <p>Thirty Six, The Place where the Prophet <hi>Iſaiah</hi> was Sawn Aſunder: his Sepulcher is un<g ref="char:EOLhyphen"/>der a Rock neer the ſame Place.</p>
+            <p>Thirty Seven, The Fountain of <hi>Siloa,</hi> by which is a Ciſtern, wherein formerly the Pilgrims uſed to Waſh, but it is now Ruined, and filled with Stones and Mud, yet it is Water ſtill accounted good for the Eye-Sight; and near this is <hi>Golgo<g ref="char:EOLhyphen"/>tha.</hi>
+            </p>
+            <p>Thirty Eight, And near this Place, in a bottom, is a Well, wherein they ſay <hi>Nehemiah</hi> hid the Holy Fire, when the Chil<g ref="char:EOLhyphen"/>dren of <hi>Jſrael</hi> were carried
+<pb n="63" facs="tcp:51049:54"/>Captive; and when they re<g ref="char:EOLhyphen"/>turned Forty Years after, they ſay they found the ſame Fire in the Well.</p>
+            <p>Thirty Nine, Aſcending up the Mount, we came to the Tombs of <hi>Annas</hi> and <hi>Cai<g ref="char:EOLhyphen"/>phas.</hi>
+            </p>
+            <p>Forty, And near it is the Place where the Apoſtles hid themſelves; where entring a ſtreight paſſage, we came into a Room under Ground, out of which there goe ſeveral holes, wherein they ſay, the <hi>Apoſtles</hi> Lay.</p>
+            <p>Forty One, We then came to <hi>Aceldama,</hi> a Grot, which is now held by the <hi>Armenians</hi> for a Burying Place: it is ſaid, the Earth thereof, will conſume the Body of a Man, in Forty
+<pb n="64" facs="tcp:51049:55"/>Eight Hours: there are ſeve<g ref="char:EOLhyphen"/>ral Vents on the Top to let out the ſmell: We went down under a Rock, to a place where we could look into it, and we there ſaw the form of a Man entire, they being only layd in, but not Covered with Earth.</p>
+            <p>Forty Second, We came to the Fountain of <hi>Berſheba,</hi> which is at the bottom of Mount <hi>Sion,</hi> in which there is now but little Water, we being forced to tarry a quarter of an hour for one Draught.</p>
+            <p>Having now ſeen all that was Remarkable in theſe Parts, we made toward the Convent, having got a great deal of Cre<g ref="char:EOLhyphen"/>dit with Father <hi>Tomaſa;</hi> that we ſhould be ſuch Zealous Pil<g ref="char:EOLhyphen"/>grims,
+<pb n="65" facs="tcp:51049:55"/>as to walk from five a Clock in the Morning till Mid<g ref="char:EOLhyphen"/>day; but he to encourage us, would ſtill be formoſt; and told us always, there was ſome place more worth our ſeeing, then any we had ſeen before: and though he was an old man, and the Weather hot, yet at the going up of a Hill, he would run, that he might be foremoſt: and gave us all the good Words that could be, to encourage us Proteſtants, who never hoped or thought, that we Merited any thing by it: but at length we came to the Convent again, and being well weary, every one retired to his Lodings.</p>
+            <p>
+               <hi>June</hi> Third, we repoſe at the Convent; after Dinner, one
+<pb n="66" facs="tcp:51049:56"/>the Fathers came and told us, that the Father <hi>Guardian</hi> would waſh our Feet; which Honour we accounted too great for us, and deſired to be excuſed<g ref="char:punc">▪</g> but we were forced to comply with the Orders of the Convent; The Baſon, which was as big as a Tub, was placed by a Chair; there were Roſe-Leaves and Herbs put into the Wa<g ref="char:EOLhyphen"/>ter; the Fathers all ſtood in a Row, Singing Godly Hymns; we ſat down, and the Father <hi>Guardian</hi> wrapt a Towel about our Knees, to keep our Cloths from Water; then they began to ſcrub our Leggs and Feet, (being Maſters of their Art) there were two <hi>Fratres</hi> atten<g ref="char:EOLhyphen"/>ding, one on one Leg, and ano<g ref="char:EOLhyphen"/>ther on the other; having firſt
+<pb n="67" facs="tcp:51049:56"/>dryed the left Foot, the <hi>Frater</hi> kiſſes it, and puts on our Slip<g ref="char:EOLhyphen"/>per; then he dryes the Right Foot, and wraps the Towel a<g ref="char:EOLhyphen"/>bout the Sole of the Foot, and ſetting it on his Knee, and co<g ref="char:EOLhyphen"/>vers the Toes with his Hand, and then come all the <hi>Fratres,</hi> and Kiſſes it; this being done, he gives us a little Candle, in taking of which, we kiſs his Hand, and ſo riſe and ſtand by, till all our Company are Waſhed in like manner. Then went we in Proceſſion, round their Chappel, they ſaying ſe<g ref="char:EOLhyphen"/>veral Prayers, at their three Altars, and ſo we return to our Chambers.</p>
+            <p>
+               <hi>June</hi> the Fourth, Af<g ref="char:EOLhyphen"/>ter Dinner, we went into the Kitchen, where we found
+<pb n="68" facs="tcp:51049:57"/>all the Fathers, with Napkins before them, waſhing the Diſh<g ref="char:EOLhyphen"/>es, every one taking his part, even to the Father <hi>Guardian</hi> himſelf; ſome were cleaning ſome handing away; but all the while, with one Conſent, they ſay ſome Prayer; it ſeeming to be their endeavour, that all that they do, may be done to the Glory of God; this being done, they goe all to the Chap<g ref="char:EOLhyphen"/>pel to Prayers, and you ſhall never ſee the Chappel, with<g ref="char:EOLhyphen"/>out ſome of them at Prayers; yea, and two or three times in the Night they Riſe to Pray<g ref="char:EOLhyphen"/>ers.</p>
+            <p>On Whitſunday, the Chap<g ref="char:EOLhyphen"/>pel was Adorned ſomething Extraordinarily, and there was a very Rich Canopy, ſet on
+<pb n="69" facs="tcp:51049:57"/>the Right Hand of the high Altar, for the Father <hi>Guardian</hi> to ſit under; when the Pray<g ref="char:EOLhyphen"/>ers began, the Father <hi>Guardi<g ref="char:EOLhyphen"/>an</hi> came into the Chappel, and ſate under this Canopy: There were three or foure Fathers Dreſt in Cloth of Silver, much after the manner of a He<g ref="char:EOLhyphen"/>rald; two whereof attend on each ſide of the <hi>Guardian,</hi> and two ſtand over againſt him.</p>
+            <p>Then they began to dreſs the Father <hi>Guardian</hi> in his Feſti<g ref="char:EOLhyphen"/>val Robes, and having read two or three Lines, they put a peice of Linnen laced about this Neck, and then his Surplice, Reading ſtill between every Robe that was put on. Then they cover him with a Garment of Rich Sattin, and Cloth of Silver; the two
+<pb n="70" facs="tcp:51049:58"/>that ſtand over againſt him, bowing at ſome words. His body being thus dreſt, the two Fathers, put a Myter upon his head, doing it with all the Re<g ref="char:EOLhyphen"/>ſpect Imaginable; after a ſhort Prayer, they take the Father-<hi>Guardian</hi> by the hand, and lead him to the Altar, he ſtand<g ref="char:EOLhyphen"/>ing in the middle of the four Fathers, adorned as aforeſaid; the other Fathers have their Surplices on, and the Organs go; then making a ſhort Pra<g ref="char:EOLhyphen"/>yer at the Altar, they lead the <hi>Gardian</hi> to his place again; and after a little reading, they take off his Myter, and he ſits bare till the Prayer be done: then they put on another Myter; the firſt was of Cloth of Silver, and the ſecond was of Cloth of
+<pb n="71" facs="tcp:51049:58"/>Gold, ſet full of Rubies, and Diamonds, and other ſorts of Stones; they afterward took off that alſo, and put on a third Myter, which was of Cloth of Gold, ſomething differing in ſhape, from the others.</p>
+            <p>The Guardian being led, to and from the Altar, a great while, at length, when they came to read that place, where the Holy Ghoſt came down upon the Apoſtles, aſſembled together, there was a Father upon the Terraſs, appointed to throw down a white Pidgeon dreſt up with Ribbons, in imitation of the Holy Ghoſt, but he met with ſome difficulty; for the window was ſo faſt ſhut that he could not open it a great while, ſo that we had like to
+<pb n="72" facs="tcp:51049:59"/>have gone away without their Holy Ghoſt: but this difficulty being overcome, he made the Dove deſcend among us; which being done, after a Prayer, they began to undreſs the Fa<g ref="char:EOLhyphen"/>ther <hi>Guardian</hi> again, reading all the while his Robes were taking off; and ſo that days ſervice was done.</p>
+            <p>Now we began to think of going to the Dead Seas, and the River Jordan, we therefore de<g ref="char:EOLhyphen"/>manded what our expence would be, the Fathers ſay, twen<g ref="char:EOLhyphen"/>ty five Livers, but we all agreed not to give above twenty; The Fathers ſent our reſolution to the <hi>Baſſa,</hi> and he return'd us this anſwer, That if we would goe, we ſhould pay twenty two Livers; and if we would not,
+<pb n="73" facs="tcp:51049:59"/>he would have ten Livers a man; we thinking our ſelves under his command, and not willing to embroyl the Convent, for they are to bare all damages, as they have done for ſeveral; but thanks be to God, none hapned in our time.</p>
+            <p>We all reſolved to goe, except Mr. <hi>T. H.</hi> and one Engliſhman more, and a Dutchman, not thinking the <hi>Baſhaw</hi> had been in earneſt; but becauſe they went not, they were forced to pay ten Livers for nothing; we then came to <hi>Bethany,</hi> now a ſmall Village, where entring into a Grot under ground, we ſaw a Tomb, from whence they ſay our Saviour rayſed <hi>Laza<g ref="char:EOLhyphen"/>rus,</hi> after he had been dead ſo many dayes; here we had the
+<pb n="74" facs="tcp:51049:60"/>
+               <hi>Baſhaws</hi> guard to wait upon us, for fear of the <hi>Arabs,</hi> who are on the other ſide <hi>Jordan</hi> in the land of <hi>Moab;</hi> who doe often make incurſions, and have ſharp diſputes, at the end of the Lance, with thoſe that live on this ſide, in the land of Pro<g ref="char:EOLhyphen"/>miſe; The <hi>Baſhaw</hi> pretended, that he muſt ſend fifty men with us, but it proved but fourteen or ſixteen,</p>
+            <p>Having repoſed a little on the ground, about nine of the clock at night, we mounted our Horſes, and paſſing through the turning and winding of the Mountains, we came in the Morning to the foot of the <hi>Qua<g ref="char:EOLhyphen"/>rantine</hi> Mountain, where we diſmounted; and making the cold earth our bed, we ſlept
+<pb n="75" facs="tcp:51049:60"/>two or three hours, having our horſes made faſt to our hands, and the Sun riſing, we roſe alſo, and walked to <hi>Eliſha's</hi> Fountain, a ſtones throw off; and before the Sun was too hot, we Mounted our Horſes at the foot of the Mountain, and ſo began to aſcend, it being very ſteep; having aſcended a great height, we came to the place where they ſay, our Saviour ſlept, when he Faſted Forty days; and from that the Moun<g ref="char:EOLhyphen"/>tain received its name; this place is neer the height of the Mountaine, but the paſſage to the top, is Known only to the <hi>Arabs;</hi> here is a Church over this place, where ſome <hi>Fathers</hi> have lived, till they were Mur<g ref="char:EOLhyphen"/>dered by the <hi>Arabs.</hi>
+            </p>
+            <p>
+               <pb n="76" facs="tcp:51049:61"/>
+Below this place are ſeveral Ciſterns of water, and ſeveral Frontiſpeices of Chappels, but the paſſage to them is cut off; as we were going up, the thoughts of the danger of de<g ref="char:EOLhyphen"/>ſcending, enters into our heads, and the Emperour of <hi>Germanies</hi> Druggerman for theſe Coun<g ref="char:EOLhyphen"/>trey Languages, being extra<g ref="char:EOLhyphen"/>ordinary fearful, got two <hi>Turks</hi> to conduct him down, and ſo we having all had a ſafe deſcent, we rode cheerfully back to <hi>Eliſha's</hi> Fountain, which was formerly bitter; but he throwing in a handful of ſalt, the waters be<g ref="char:EOLhyphen"/>came ſweet.</p>
+            <p>Here we lay till Four a clock, and the heat of the Sun being over, we made for <hi>Jericho,</hi> where we arrived about five,
+<pb n="77" facs="tcp:51049:61"/>where there are now, only a few poor Cottages: we pitched by <hi>Zacheus</hi> Tree, the Inhabi<g ref="char:EOLhyphen"/>tants are for the moſt part <hi>Ara<g ref="char:EOLhyphen"/>bians,</hi> and ſome few <hi>Greeks:</hi> here the Captain of the Village came to welcome our <hi>Baſhaw</hi> and his people; he was moun<g ref="char:EOLhyphen"/>ted upon a Mare, valued at a Thouſand Livers, Mares be<g ref="char:EOLhyphen"/>ing only in eſteem among them; here we repoſed under a rotten hedg, till about four of the Clock next mourning; ha<g ref="char:EOLhyphen"/>ing little pleaſure in our com<g ref="char:EOLhyphen"/>panions, the Gnats, and other ſtinging creatures.</p>
+            <p>We proceed for the River <hi>Jordan,</hi> where we arrived by day-light, and tarried about an hour to ſwim in the River; the ſtream is ſtrong, and rapid;
+<pb n="78" facs="tcp:51049:62"/>and the force of a man, can little more then reſiſt it; it runs in<g ref="char:EOLhyphen"/>to the Dead Sea.</p>
+            <p>Our Guard were very haſty for us to be gone, being afraid their Enemies ſhould find them; therefore we all made ready, and ſet forward for the Dead Sea; about two hours after in our way to the Sea, we paſſed through a moſt curſed barren place, not having ſo much as a green herb or graſs, and the face of the earth was covered with Salt, and though it was dry, yet our Horſes ſunk up to the Knees.</p>
+            <p>We come now to the Dead Sea, being about Seventy or Eighty Miles in Breadth, and about Eighteen Over: There is no place Viſible from whence
+<pb n="79" facs="tcp:51049:62"/>the Water, which comes in<g ref="char:EOLhyphen"/>to it, runs out again, except it be under the earth; neither doth it ſeem to Increaſe with the water of the River <hi>Jordan,</hi> and of ſevaral other waters that run into it: It was once a fruit<g ref="char:EOLhyphen"/>full Valley, and compared for delight, unto Paradiſe, and was called <hi>Pentapolis,</hi> of her five Cities, and was afterward de<g ref="char:EOLhyphen"/>ſtroyed with fire from Heaven, and turned into this ſilthy Lake, and barren deſolation which doth encompaſs it: &amp; to try the virtue, that is reported to be in the water, wherein they ſay, a man cannot ſink; ſome of our Company went into the Sea, and found it impoſſible to get their bodies under water, yea could hardly keep their legs
+<pb n="80" facs="tcp:51049:63"/>under; The water is ſulphury, and the extremity of the ſalt<g ref="char:EOLhyphen"/>neſs is not to be expreſt; when they came out of the water, there was a perfect Oyl upon their bodies.</p>
+            <p>Our Eyes being ſatisfied with Curioſities, and Rarities, we make what haſt we can, back to <hi>Jeruſalem:</hi> but I ſhould have given you an Account, that the Ruins of one of the Cities, that were deſtoryed for Sodomy, now lyes good part out of the water, and is ſuppoſed to be <hi>Zeboim.</hi>
+            </p>
+            <p>Now the Sun gets ſtrenght, and grows extraordinary hot, and by reflection on the ground, makes the heat ſo violent, that our faces looked as if the skin were flead off, by riding
+<pb n="81" facs="tcp:51049:63"/>in the Sun, from Morning till four of the Clock in the after<g ref="char:EOLhyphen"/>noon; but the Fathers being accuſtomed, to meet with ten<g ref="char:EOLhyphen"/>der-faced Travellers, ſoon pro<g ref="char:EOLhyphen"/>vided ſomething to mitigate our pain, which was much in<g ref="char:EOLhyphen"/>creaſed, by reaſon of the ſalt<g ref="char:EOLhyphen"/>neſs of the water of the <hi>Dead Sea:</hi> this night we took little pleaſure in eating, but more in ſleeping, having had but little in this Voyage.</p>
+            <p>Having now viſited all the places in the Holy Land, which Pilgrims uſually do, we pre<g ref="char:EOLhyphen"/>pare our ſelves for our return. <hi>June</hi> Ninth, we being reſol<g ref="char:EOLhyphen"/>ved to ſet forward in our Return; In the Morning the Father <hi>Guardian</hi> came to us, and gave us his bleſſing, and
+<pb n="82" facs="tcp:51049:64"/>ſprinkled us with Holy Water, deſiring us to excuſe our Bad Treatment, and that if at any time we had been diſ<g ref="char:EOLhyphen"/>taſted, we would paſs it over; but we Knew it was but a com<g ref="char:EOLhyphen"/>plement, for we had the Civileſt Entertainment imaginable, and very far from diſguſting us; for there were none of them, but were not only ready to be our ſervants, but our Slaves, yea, my honeſt name-ſake, Fa<g ref="char:EOLhyphen"/>ther <hi>Tomaſo,</hi> never ceaſed from Morning to Night, from bringing us either Victuals or Drink, or asking us whether we wanted any thing; and now for this his fourteen days ſer<g ref="char:EOLhyphen"/>vice, we were no ways capa<g ref="char:EOLhyphen"/>ble to recompence him; for they would take no money,
+<pb n="83" facs="tcp:51049:64"/>but for our Victuals, and for ſome other ſmall ſervices; we therefore preſented to the Con<g ref="char:EOLhyphen"/>vent, thirty Livers apeice, and ſome that had ſervants preſent<g ref="char:EOLhyphen"/>ed more. The Father <hi>Procurator</hi> receiving it, they entred all our names in a Book, and the ſums we gave; the Book where the names only were written, we had a view of, and took a Coppy, of all the <hi>Engliſhmens</hi> names that were in it, from the year One Thouſand Five Hundred Sixty One, to this day, being One Hundred Fifty Eight in number.</p>
+            <p>Now taking our leaves of the Fathers, they all ſhewed a great deal of affection to us, weeping, and expreſſing their deſires, to enjoy our company
+<pb n="84" facs="tcp:51049:65"/>longer; and our deſires were as much to be nearer home, that we might have an Account of our Freinds.</p>
+            <p>
+               <hi>June</hi> the Fourth we departed, our <hi>Muletters</hi> having provided us Horſes; and our intentions were to take <hi>Emaus</hi> in our way, but night drawing on, we made St. <hi>Jeroms</hi> Church our ſleep<g ref="char:EOLhyphen"/>ing place; there were formerly Fathers lived in it, but the <hi>Arabs</hi> came upon them in the night, and cut all their throats; The Church is very well built, and hath been adorned with Pictures upon the wall, of which ſome remain to this day.</p>
+            <p>About too hours riding from <hi>Jeruſalem,</hi> we paſſed over the brook, out of which they ſay,
+<pb n="85" facs="tcp:51049:65"/>
+               <hi>David</hi> gathered the pebble ſtones, wherewith he ſlew <hi>Go<g ref="char:EOLhyphen"/>liah.</hi>
+            </p>
+            <p>
+               <hi>June</hi> Fifth, we arrived at the Convent in <hi>Ramath,</hi> about ten of the Clock in the Morning; where we tarried till about mid<g ref="char:EOLhyphen"/>night, at which time there was a Ship to depart, and ſome of us intended to embarque; the reſt of us took a little boat, about the bigneſs of a <hi>Graveſend</hi> Barge; we put our proviſions of Bread and Wine aboard, and ſo we put to Sea, keep<g ref="char:EOLhyphen"/>ing always neer the ſhore, for fear of a ſtorm.</p>
+            <p>After three days ſayl, we ar<g ref="char:EOLhyphen"/>rived at <hi>Aerica,</hi> formerly called <hi>Ptolemais,</hi> we always coming to Anchor at night; this place is famous for nothing but the ruins,
+<pb n="86" facs="tcp:51049:66"/>the Road being ſo bad, that all the Art Captains have, can but keep their Cables toge<g ref="char:EOLhyphen"/>ther.</p>
+            <p>The Commodities in this place, are only <hi>Cottons, Pot-aſhes,</hi> and fome <hi>Filletto's.</hi>
+            </p>
+            <p>Two days after we arrived at <hi>Tripoly,</hi> where we made bold, at our old Houſe; the Conſul receives us very gladly, and our deſign was, to depart next day, but the Plague ſtill raging at <hi>Aleppo,</hi> the Conſul forced us to ſtay with him Twelve or Fourteen days; all which time we were treated like Princes, and then by his leave, we imbarqued on a <hi>Dutch</hi> Ship for <hi>Scanderoon;</hi> the reſt of our Company (whom we left at <hi>Aerica</hi> to goe to ſee the
+<pb n="87" facs="tcp:51049:66"/>of <hi>Gallilee</hi>) being arrived.</p>
+            <p>
+               <hi>June</hi> Twenty Six, we arrived at <hi>Scanderoon,</hi> where ſome were dead, and others dying, and one flying from another.</p>
+            <p>We tarried upon the Mount, and aboard the Ship for ſome time: and <hi>July</hi> 2d we arrived at <hi>Aleppo,</hi> where there dyed at that time, Seventy or Eighty of a day of the Plague.</p>
+            <p>And thus ended our Jour<g ref="char:EOLhyphen"/>ney.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:51049:67"/>
+            <pb facs="tcp:51049:67"/>
+            <head>Books Printed for, and Sold by <hi>N. Crouch,</hi> in Exchang Alley over againſt the Royal Exchange in <hi>Cornhil.</hi>
+            </head>
+            <p>THe ſound hearted Chriſtian, or a Treatiſe of ſoundneſs of heart, with ſeveral others Ser<g ref="char:EOLhyphen"/>mons, by <hi>Will. Greenhil</hi> late Mi<g ref="char:EOLhyphen"/>niſter of <hi>Stepney, price</hi> 2. <abbr>s.</abbr>
+            </p>
+            <p>The Freeneſs of the grace and love of God to believers diſco<g ref="char:EOLhyphen"/>vered in ſeveral Sermons, by <hi>William Bridg,</hi> late Miniſter at <hi>Yarmouth. price</hi> 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6. <abbr>d.</abbr>
+            </p>
+            <p>The Penitent Murtherer, be<g ref="char:EOLhyphen"/>ing an exact Narrative of the life and death of <hi>Nath. Butler,</hi> who became a Convert, after he had moſt cruelly Murthered <hi>John Knight,</hi> price 8. <abbr>d.</abbr>
+            </p>
+            <pb facs="tcp:51049:68"/>
+            <p>The Myſtery of the Marriage Song, being an Expoſition on the 45. <hi>Pſalm,</hi> by <hi>Willam Troughton</hi> Miniſter at <hi>Salisbury.</hi> price 2. <abbr>s.</abbr>
+            </p>
+            <p>ΑΙΜΑΤΙΑΣΙΣ, or the true way of Preſerving the Blood in its Integrity, and rectifying it when polluted, and degenerate; diſcovering the Errors of <hi>Dr. Willis</hi> and <hi>Dr. Betts,</hi> by <hi>Georg Thomſon.</hi> M.D. price 1. <abbr>s.</abbr> 6. <abbr>d.</abbr>
+            </p>
+            <p>A Vindication of the Lord <hi>Bacon,</hi> and the Author, from the Inſolent Garrulity of <hi>Henry Stubbs,</hi> by <hi>Georg Thomſon,</hi> M.D. price 6. <abbr>d.</abbr>
+            </p>
+            <p>A Letter ſent to <hi>Hen. Stubbs,</hi> wherein the Gallenical Method and Medicaments, are offered to be prov'd deſtructive to Man<g ref="char:EOLhyphen"/>kind, by <hi>G. Thomſon,</hi> M. D. price 6. <abbr>d.</abbr>
+            </p>
+            <p>
+               <pb facs="tcp:51049:68"/>
+The Ladies Delight, or a rich Cloſet of choice Experiments and Curioſities; Containing the Art of Preſerving and Candy<g ref="char:EOLhyphen"/>ing both Fruits and Flowrs; to<g ref="char:EOLhyphen"/>gether with the <hi>Exact Cook,</hi> or the Art of Dreſſing all ſorts of Fleſh, Fowl, and Fiſh: by <hi>Han<g ref="char:EOLhyphen"/>nah Woolley.</hi> To which is added; The Ladies Phyſical Cloſet, or Excellent Receipts and rare Waters for beautifying the face and body. <hi>price</hi> 1. <abbr>s.</abbr> 6. <abbr>d.</abbr>
+            </p>
+            <p>The Evil Tongue tryed, and found guilty, or the hainouſneſs and ſinfulneſs of a defaming and back biting Tongue, proving it to be a moſt prenicious and grei<g ref="char:EOLhyphen"/>vous Plague to Mankind. By <hi>Stephen Ford,</hi> Miniſter of the Goſpel in <hi>London.</hi> Price 1 <abbr>s.</abbr> 6. <abbr>d.</abbr>
+            </p>
+            <p>
+               <pb facs="tcp:51049:69"/>
+Jacobs Ladder, or the De<g ref="char:EOLhyphen"/>vout Souls Aſcention to Hea<g ref="char:EOLhyphen"/>ven, in Prayers, Thankſgivings, and Praiſes, in four parts, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Private Devotions for eve<g ref="char:EOLhyphen"/>ry Day in the Week.</p>
+            <p n="2">2. Family Devotions for e<g ref="char:EOLhyphen"/>very day of the Week.</p>
+            <p n="3">3. Occaſional Devotions, for divers Seaſons, and Occaſions.</p>
+            <p n="4">4. Sacred Poems upon Select Subjects. Illuſtrated with Sculp<g ref="char:EOLhyphen"/>tures. By <hi>Joſeph</hi> Hall. <hi>B. D. Price</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p>
+               <hi>De Cometis,</hi> or a Diſcourſe of the Natures and Effects of Com<g ref="char:EOLhyphen"/>mets as they are Phloſophical<g ref="char:EOLhyphen"/>ly, Hiſtorically, and Aſtrologi<g ref="char:EOLhyphen"/>cally conſidered; with a full Account of the three laſt Comets or Blaſing Stars, Viſible to all Europe, and what in a natural
+<pb facs="tcp:51049:69"/>way of Judicature they por<g ref="char:EOLhyphen"/>tend: together with ſome ob<g ref="char:EOLhyphen"/>ſervations on the Nativity of the Grand Seignior; by <hi>John</hi> Gadbury, <hi>price</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p>Sighs for the Pitchers, and the Priſoners Plea, by <hi>Georg Wi<g ref="char:EOLhyphen"/>thers, Price</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p>Poems upon divers Emgerent Occaſions, by <hi>James Howel,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Price</hi> 1<abbr>s.</abbr> 6<abbr>d.</abbr>
+            </p>
+            <p>
+               <hi>Iter Boreale,</hi> with other Po<g ref="char:EOLhyphen"/>ems, by <hi>Rob. Wild, D. D.</hi>
+            </p>
+            <p>The Knowledg of Chriſt in<g ref="char:EOLhyphen"/>diſpenſably required of all men that will be Saved, proving Je<g ref="char:EOLhyphen"/>ſus Chriſt to be the true Meſ<g ref="char:EOLhyphen"/>ſias, by <hi>John Davenport. price</hi> 1 <abbr>s.</abbr>
+            </p>
+            <p>Comfort for Beleivers againſt their Sins &amp; Troubles, by <hi>Jo. Ar<g ref="char:EOLhyphen"/>cher,</hi> ſomtimes Min. at <hi>Alhollows</hi> Lumbardſtreet, <hi>Price</hi> 1 <abbr>s.</abbr>
+            </p>
+         </div>
+         <div type="map">
+            <pb facs="tcp:51049:70"/>
+            <p>
+               <figure>
+                  <figDesc>map of the Holy Land (near East)</figDesc>
+                  <head>A Map of the HOLY LAND with the places adjacent</head>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
